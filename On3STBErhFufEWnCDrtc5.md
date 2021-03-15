@@ -1,0 +1,1 @@
+Use peertube to host videos. Configure OpenID Connect so GitHub will work with it for auth. Use S3 for storage and Linode for hosting.

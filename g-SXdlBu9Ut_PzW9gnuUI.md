@@ -1,0 +1,1 @@
+Show where to find the link to creating personal tokens. Discuss how it might be a good idea to have separate user accounts for tokens and config that is in your browser, unless you're only using GitFeatures with your own repositories.

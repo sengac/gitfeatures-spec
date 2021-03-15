@@ -38,6 +38,11 @@
                       title: Cloning your first repository
                       expanded: true
                       children: []
+                    - key: cGo3HAtXA6o5Df_k4howD
+                      type: folder
+                      title: Managing Local Repositories
+                      expanded: true
+                      children: []
                     - key: Rb7JjLTfI5SpSeCNVxBmW
                       type: folder
                       title: Adding things like a mindmap
@@ -48,9 +53,39 @@
                       title: Writing content
                       expanded: true
                       children: []
+                    - key: jFEbP9yw1Gvf9yF9KiWsQ
+                      type: folder
+                      title: Adding Emoticons
+                      expanded: true
+                      children: []
+                    - key: 7OyD3qB6v9cxWUrToLXrH
+                      type: folder
+                      title: Adding Images
+                      expanded: true
+                      children: []
+                    - key: quA3XpS3KhQ9K6OvvSqJc
+                      type: folder
+                      title: Adding Downloadable Files
+                      expanded: true
+                      children: []
+                    - key: SvNi-eW8JkNo53eFDSPxa
+                      type: folder
+                      title: Adding Diagrams
+                      expanded: true
+                      children: []
+                    - key: c7EerU0RJSFtZUZJqzmLL
+                      type: folder
+                      title: Adding Sketches
+                      expanded: true
+                      children: []
                     - key: 2-2sFUbaqpPQmVTydwXRk
                       type: folder
                       title: Folders, Features & Example Maps
+                      expanded: true
+                      children: []
+                    - key: aHNWlN-1lhB1AXveYLw1c
+                      type: folder
+                      title: Features and feature-toggles.yml
                       expanded: true
                       children: []
                     - key: SXs5zV2zTgFI1Xv6Luobg
@@ -58,26 +93,81 @@
                       title: Stories, Rules, Examples & Questions
                       expanded: true
                       children: []
+                    - key: 4zx5nkh00NEotstm-xvp3
+                      type: folder
+                      title: Showing/Hide Trees
+                      expanded: true
+                      children: []
+                    - key: Fh-uZjUt6ks1JNIsCIwD_
+                      type: folder
+                      title: Renaming Identifiers
+                      expanded: true
+                      children: []
+                    - key: PpuSk73zyGi0GZU2TDQzz
+                      type: folder
+                      title: Tagging
+                      expanded: true
+                      children: []
+                    - key: _P_k5oZvk0blO05GHgwzr
+                      type: folder
+                      title: Committing Changes
+                      expanded: true
+                      children: []
+                    - key: mYOVj_8azMX4ukmimznBo
+                      type: folder
+                      title: Pushing
+                      expanded: true
+                      children: []
+                    - key: U3IBobphYaZudvqYXOJW3
+                      type: folder
+                      title: Rolling Back
+                      expanded: true
+                      children: []
                 - key: ilGB0Cd2FxdlacB0THJtn
                   type: folder
-                  title: Configuring Git
+                  title: Configuring & Managing Git
                   expanded: true
-                  children: []
-                - key: L9xH4tMiTkHWMQyfTYrXx
-                  type: folder
-                  title: Working with Git
-                  expanded: true
-                  children: []
-                - key: kieolgLHq-RTlu3oPhH8E
-                  type: folder
-                  title: Self-hosting GitFeatures
-                  expanded: true
-                  children: []
-                - key: -NaYXmruh2-3TH2FYhfkn
-                  type: folder
-                  title: CORS Proxy Options
-                  expanded: true
-                  children: []
+                  children:
+                    - key: EgqpOWqNvSQgGJTfAN62q
+                      type: folder
+                      title: Settings the basic options
+                      expanded: true
+                      children: []
+                    - key: -NaYXmruh2-3TH2FYhfkn
+                      type: folder
+                      title: CORS Proxy Options
+                      expanded: true
+                      children: []
+                    - key: V3MiQ3mZ69_Rx2ARdW4Zf
+                      type: folder
+                      title: Creating a new profile
+                      expanded: true
+                      children: []
+                    - key: 8PxF0taN_KstDbToCNdaB
+                      type: folder
+                      title: Selecting different profiles
+                      expanded: true
+                      children: []
+                    - key: g-SXdlBu9Ut_PzW9gnuUI
+                      type: folder
+                      title: Using GitHub
+                      expanded: true
+                      children: []
+                    - key: J9E6Ab09lfM7mzQ2atj8C
+                      type: folder
+                      title: Using GitLab, Gogs and others
+                      expanded: true
+                      children: []
+                    - key: cDd24_uwsKfRFC-5Rtoc_
+                      type: folder
+                      title: Squashing commits
+                      expanded: true
+                      children: []
+                    - key: tvybNkME9W18wABNuRIIB
+                      type: folder
+                      title: Handling merging
+                      expanded: true
+                      children: []
             - key: LfSIay3ycJ1wjRF3FbMgM
               type: folder
               title: Major Topics
@@ -132,7 +222,12 @@
                   type: folder
                   title: Card, Conversation, Confirmation
                   expanded: true
-                  children: []
+                  children:
+                    - key: NVAk4O8twsOQSM9Im3viO
+                      type: folder
+                      title: How Example Mapping works (by Example)
+                      expanded: true
+                      children: []
                 - key: vTFC-7BFuCecfpyIJwdtG
                   type: folder
                   title: Specifications in Git
@@ -143,3 +238,8 @@
                   title: Measuring Feature Outcomes
                   expanded: true
                   children: []
+            - key: On3STBErhFufEWnCDrtc5
+              type: folder
+              title: Hosting
+              expanded: true
+              children: []

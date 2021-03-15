@@ -1,0 +1,1 @@
+Refer to the documentation on isomorphic git.

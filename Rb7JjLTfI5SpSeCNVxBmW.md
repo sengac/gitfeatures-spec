@@ -1,0 +1,1 @@
+Note how to use the keyboard for fast access
