@@ -168,11 +168,6 @@
                       title: Handling merging
                       expanded: true
                       children: []
-            - key: LfSIay3ycJ1wjRF3FbMgM
-              type: folder
-              title: Major Topics
-              expanded: true
-              children:
                 - key: i4VTvXUW_pqa8Kp0Aki_4
                   type: folder
                   title: Philosophy of GitFeatures
@@ -218,6 +213,11 @@
                       title: "Accountability: critical thinking and the problem of ownership"
                       expanded: true
                       children: []
+            - key: LfSIay3ycJ1wjRF3FbMgM
+              type: folder
+              title: Major Topics
+              expanded: true
+              children:
                 - key: B2BltftgGDmh9YNU88Pgz
                   type: folder
                   title: Card, Conversation, Confirmation
