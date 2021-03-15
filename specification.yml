@@ -6,17 +6,17 @@
     - key: piLpZ7qxQuWF90uCG1dGw
       type: folder
       title: Videos
-      expanded: true
+      expanded: false
       children:
         - key: o6FMuqH9AzF5vMaBaw--f
           type: folder
           title: Tutorials
-          expanded: false
+          expanded: true
           children:
             - key: b9-SGsr0qUvxupp442k6p
               type: folder
               title: Quick Start Guide
-              expanded: false
+              expanded: true
               children:
                 - key: f3U033wb__TQ8eOOOYsxk
                   type: folder
@@ -121,7 +121,7 @@
             - key: ilGB0Cd2FxdlacB0THJtn
               type: folder
               title: Configuring & Managing Git
-              expanded: false
+              expanded: true
               children:
                 - key: EgqpOWqNvSQgGJTfAN62q
                   type: folder
@@ -166,7 +166,7 @@
             - key: i4VTvXUW_pqa8Kp0Aki_4
               type: folder
               title: Philosophy of GitFeatures
-              expanded: false
+              expanded: true
               children:
                 - key: 6pOdE0QW7W9DIwxap8ro2
                   type: folder
@@ -216,7 +216,7 @@
             - key: B2BltftgGDmh9YNU88Pgz
               type: folder
               title: Card, Conversation, Confirmation
-              expanded: false
+              expanded: true
               children:
                 - key: NVAk4O8twsOQSM9Im3viO
                   type: folder
@@ -325,7 +325,17 @@
                   type: feature
                   title: Sketch Component
                   expanded: true
-                  children: []
+                  children:
+                    - key: 6e71FMSs3oC_ZrhZkcCxE
+                      type: map
+                      title: Save and restore from markdown
+                      expanded: true
+                      children: []
+                    - key: Ao6fwNcyPaktN7mz0xj6S
+                      type: map
+                      title: Handle pen input
+                      expanded: true
+                      children: []
             - key: EXyNPxFeoYVt-0Y6Jukfo
               type: folder
               title: Add acknowledgement message
@@ -364,7 +374,7 @@
         - key: jUq6qQFEXQunl9uTwKu0g
           type: folder
           title: Backlog
-          expanded: true
+          expanded: false
           children:
             - key: vC0XC3P5BUF16Iddns_tx
               type: folder
