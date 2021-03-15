@@ -1,0 +1,1 @@
+[Lunrjs.com](https://lunrjs.com/) looks pretty good - investigate.

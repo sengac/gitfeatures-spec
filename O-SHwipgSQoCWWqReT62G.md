@@ -1,0 +1,1 @@
+This will likely require taking snapshots when the reducer is called. Must also show diff of what has changed!

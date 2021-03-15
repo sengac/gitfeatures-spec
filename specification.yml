@@ -3,243 +3,396 @@
   title: GitFeatures
   expanded: true
   children:
-    - key: lmUQhyjJe7EqRwtAX2TEm
+    - key: piLpZ7qxQuWF90uCG1dGw
       type: folder
-      title: Website
+      title: Videos
       expanded: true
       children:
-        - key: piLpZ7qxQuWF90uCG1dGw
+        - key: o6FMuqH9AzF5vMaBaw--f
           type: folder
-          title: Videos
+          title: Tutorials
+          expanded: false
+          children:
+            - key: b9-SGsr0qUvxupp442k6p
+              type: folder
+              title: Quick Start Guide
+              expanded: false
+              children:
+                - key: f3U033wb__TQ8eOOOYsxk
+                  type: folder
+                  title: Discuss Why first (under 1 minute)
+                  expanded: true
+                  children: []
+                - key: FaDXhbkupRXP6nRG5vTYu
+                  type: folder
+                  title: How to run (locally, hosted, app.gitfeatures.com)
+                  expanded: true
+                  children: []
+                - key: UlvkAZFXTiaZhhkjZ2w6P
+                  type: folder
+                  title: Cloning your first repository
+                  expanded: true
+                  children: []
+                - key: cGo3HAtXA6o5Df_k4howD
+                  type: folder
+                  title: Managing Local Repositories
+                  expanded: true
+                  children: []
+                - key: Rb7JjLTfI5SpSeCNVxBmW
+                  type: folder
+                  title: Adding things like a mindmap
+                  expanded: true
+                  children: []
+                - key: NKJT5geBszsKbrPJcYCmT
+                  type: folder
+                  title: Writing content
+                  expanded: true
+                  children: []
+                - key: jFEbP9yw1Gvf9yF9KiWsQ
+                  type: folder
+                  title: Adding Emoticons
+                  expanded: true
+                  children: []
+                - key: 7OyD3qB6v9cxWUrToLXrH
+                  type: folder
+                  title: Adding Images
+                  expanded: true
+                  children: []
+                - key: quA3XpS3KhQ9K6OvvSqJc
+                  type: folder
+                  title: Adding Downloadable Files
+                  expanded: true
+                  children: []
+                - key: SvNi-eW8JkNo53eFDSPxa
+                  type: folder
+                  title: Adding Diagrams
+                  expanded: true
+                  children: []
+                - key: c7EerU0RJSFtZUZJqzmLL
+                  type: folder
+                  title: Adding Sketches
+                  expanded: true
+                  children: []
+                - key: 2-2sFUbaqpPQmVTydwXRk
+                  type: folder
+                  title: Folders, Features & Example Maps
+                  expanded: true
+                  children: []
+                - key: aHNWlN-1lhB1AXveYLw1c
+                  type: folder
+                  title: Features and feature-toggles.yml
+                  expanded: true
+                  children: []
+                - key: SXs5zV2zTgFI1Xv6Luobg
+                  type: folder
+                  title: Stories, Rules, Examples & Questions
+                  expanded: true
+                  children: []
+                - key: 4zx5nkh00NEotstm-xvp3
+                  type: folder
+                  title: Showing/Hide Trees
+                  expanded: true
+                  children: []
+                - key: Fh-uZjUt6ks1JNIsCIwD_
+                  type: folder
+                  title: Renaming Identifiers
+                  expanded: true
+                  children: []
+                - key: PpuSk73zyGi0GZU2TDQzz
+                  type: folder
+                  title: Tagging
+                  expanded: true
+                  children: []
+                - key: _P_k5oZvk0blO05GHgwzr
+                  type: folder
+                  title: Committing Changes
+                  expanded: true
+                  children: []
+                - key: mYOVj_8azMX4ukmimznBo
+                  type: folder
+                  title: Pushing
+                  expanded: true
+                  children: []
+                - key: U3IBobphYaZudvqYXOJW3
+                  type: folder
+                  title: Rolling Back
+                  expanded: true
+                  children: []
+            - key: ilGB0Cd2FxdlacB0THJtn
+              type: folder
+              title: Configuring & Managing Git
+              expanded: false
+              children:
+                - key: EgqpOWqNvSQgGJTfAN62q
+                  type: folder
+                  title: Settings the basic options
+                  expanded: true
+                  children: []
+                - key: -NaYXmruh2-3TH2FYhfkn
+                  type: folder
+                  title: CORS Proxy Options
+                  expanded: true
+                  children: []
+                - key: V3MiQ3mZ69_Rx2ARdW4Zf
+                  type: folder
+                  title: Creating a new profile
+                  expanded: true
+                  children: []
+                - key: 8PxF0taN_KstDbToCNdaB
+                  type: folder
+                  title: Selecting different profiles
+                  expanded: true
+                  children: []
+                - key: g-SXdlBu9Ut_PzW9gnuUI
+                  type: folder
+                  title: Using GitHub
+                  expanded: true
+                  children: []
+                - key: J9E6Ab09lfM7mzQ2atj8C
+                  type: folder
+                  title: Using GitLab, Gogs and others
+                  expanded: true
+                  children: []
+                - key: cDd24_uwsKfRFC-5Rtoc_
+                  type: folder
+                  title: Squashing commits
+                  expanded: true
+                  children: []
+                - key: tvybNkME9W18wABNuRIIB
+                  type: folder
+                  title: Handling merging
+                  expanded: true
+                  children: []
+            - key: i4VTvXUW_pqa8Kp0Aki_4
+              type: folder
+              title: Philosophy of GitFeatures
+              expanded: false
+              children:
+                - key: 6pOdE0QW7W9DIwxap8ro2
+                  type: folder
+                  title: Guiding best practices with a low cognitive impact
+                  expanded: true
+                  children: []
+                - key: awqFc_8wia-twqwn4j9lh
+                  type: folder
+                  title: The value of "Deep Context"
+                  expanded: true
+                  children: []
+                - key: fAZfgnXAqgeGoVuZ6TFu9
+                  type: folder
+                  title: "Small Teams: Working & Communicating Effectively"
+                  expanded: true
+                  children: []
+                - key: iENm7Q-sWezDegJBNXTNq
+                  type: folder
+                  title: Flow State
+                  expanded: true
+                  children: []
+                - key: rj0OL4zx8pRyFgN0E5oZO
+                  type: folder
+                  title: Taylorism
+                  expanded: true
+                  children: []
+                - key: 0BzqRjKt-PIvtNbKyl2nz
+                  type: folder
+                  title: "Agile Manifesto: Flow vs Taylorism"
+                  expanded: true
+                  children: []
+                - key: cew0UwPz3Vrf_kGA8fUgl
+                  type: folder
+                  title: "Planning: knowing when and how much to plan"
+                  expanded: true
+                  children: []
+                - key: ltKx8VjVIFSKPzPoVSXkV
+                  type: folder
+                  title: "Accountability: critical thinking and the problem of ownership"
+                  expanded: true
+                  children: []
+        - key: LfSIay3ycJ1wjRF3FbMgM
+          type: folder
+          title: Major Topics
           expanded: true
           children:
-            - key: o6FMuqH9AzF5vMaBaw--f
+            - key: B2BltftgGDmh9YNU88Pgz
               type: folder
-              title: Tutorials
-              expanded: true
+              title: Card, Conversation, Confirmation
+              expanded: false
               children:
-                - key: b9-SGsr0qUvxupp442k6p
+                - key: NVAk4O8twsOQSM9Im3viO
                   type: folder
-                  title: Quick Start Guide
-                  expanded: true
-                  children:
-                    - key: f3U033wb__TQ8eOOOYsxk
-                      type: folder
-                      title: Discuss Why first (under 1 minute)
-                      expanded: true
-                      children: []
-                    - key: FaDXhbkupRXP6nRG5vTYu
-                      type: folder
-                      title: How to run (locally, hosted, app.gitfeatures.com)
-                      expanded: true
-                      children: []
-                    - key: UlvkAZFXTiaZhhkjZ2w6P
-                      type: folder
-                      title: Cloning your first repository
-                      expanded: true
-                      children: []
-                    - key: cGo3HAtXA6o5Df_k4howD
-                      type: folder
-                      title: Managing Local Repositories
-                      expanded: true
-                      children: []
-                    - key: Rb7JjLTfI5SpSeCNVxBmW
-                      type: folder
-                      title: Adding things like a mindmap
-                      expanded: true
-                      children: []
-                    - key: NKJT5geBszsKbrPJcYCmT
-                      type: folder
-                      title: Writing content
-                      expanded: true
-                      children: []
-                    - key: jFEbP9yw1Gvf9yF9KiWsQ
-                      type: folder
-                      title: Adding Emoticons
-                      expanded: true
-                      children: []
-                    - key: 7OyD3qB6v9cxWUrToLXrH
-                      type: folder
-                      title: Adding Images
-                      expanded: true
-                      children: []
-                    - key: quA3XpS3KhQ9K6OvvSqJc
-                      type: folder
-                      title: Adding Downloadable Files
-                      expanded: true
-                      children: []
-                    - key: SvNi-eW8JkNo53eFDSPxa
-                      type: folder
-                      title: Adding Diagrams
-                      expanded: true
-                      children: []
-                    - key: c7EerU0RJSFtZUZJqzmLL
-                      type: folder
-                      title: Adding Sketches
-                      expanded: true
-                      children: []
-                    - key: 2-2sFUbaqpPQmVTydwXRk
-                      type: folder
-                      title: Folders, Features & Example Maps
-                      expanded: true
-                      children: []
-                    - key: aHNWlN-1lhB1AXveYLw1c
-                      type: folder
-                      title: Features and feature-toggles.yml
-                      expanded: true
-                      children: []
-                    - key: SXs5zV2zTgFI1Xv6Luobg
-                      type: folder
-                      title: Stories, Rules, Examples & Questions
-                      expanded: true
-                      children: []
-                    - key: 4zx5nkh00NEotstm-xvp3
-                      type: folder
-                      title: Showing/Hide Trees
-                      expanded: true
-                      children: []
-                    - key: Fh-uZjUt6ks1JNIsCIwD_
-                      type: folder
-                      title: Renaming Identifiers
-                      expanded: true
-                      children: []
-                    - key: PpuSk73zyGi0GZU2TDQzz
-                      type: folder
-                      title: Tagging
-                      expanded: true
-                      children: []
-                    - key: _P_k5oZvk0blO05GHgwzr
-                      type: folder
-                      title: Committing Changes
-                      expanded: true
-                      children: []
-                    - key: mYOVj_8azMX4ukmimznBo
-                      type: folder
-                      title: Pushing
-                      expanded: true
-                      children: []
-                    - key: U3IBobphYaZudvqYXOJW3
-                      type: folder
-                      title: Rolling Back
-                      expanded: true
-                      children: []
-                - key: ilGB0Cd2FxdlacB0THJtn
-                  type: folder
-                  title: Configuring & Managing Git
-                  expanded: true
-                  children:
-                    - key: EgqpOWqNvSQgGJTfAN62q
-                      type: folder
-                      title: Settings the basic options
-                      expanded: true
-                      children: []
-                    - key: -NaYXmruh2-3TH2FYhfkn
-                      type: folder
-                      title: CORS Proxy Options
-                      expanded: true
-                      children: []
-                    - key: V3MiQ3mZ69_Rx2ARdW4Zf
-                      type: folder
-                      title: Creating a new profile
-                      expanded: true
-                      children: []
-                    - key: 8PxF0taN_KstDbToCNdaB
-                      type: folder
-                      title: Selecting different profiles
-                      expanded: true
-                      children: []
-                    - key: g-SXdlBu9Ut_PzW9gnuUI
-                      type: folder
-                      title: Using GitHub
-                      expanded: true
-                      children: []
-                    - key: J9E6Ab09lfM7mzQ2atj8C
-                      type: folder
-                      title: Using GitLab, Gogs and others
-                      expanded: true
-                      children: []
-                    - key: cDd24_uwsKfRFC-5Rtoc_
-                      type: folder
-                      title: Squashing commits
-                      expanded: true
-                      children: []
-                    - key: tvybNkME9W18wABNuRIIB
-                      type: folder
-                      title: Handling merging
-                      expanded: true
-                      children: []
-                - key: i4VTvXUW_pqa8Kp0Aki_4
-                  type: folder
-                  title: Philosophy of GitFeatures
-                  expanded: true
-                  children:
-                    - key: 6pOdE0QW7W9DIwxap8ro2
-                      type: folder
-                      title: Guiding best practices with a low cognitive impact
-                      expanded: true
-                      children: []
-                    - key: awqFc_8wia-twqwn4j9lh
-                      type: folder
-                      title: The value of "Deep Context"
-                      expanded: true
-                      children: []
-                    - key: fAZfgnXAqgeGoVuZ6TFu9
-                      type: folder
-                      title: "Small Teams: Working & Communicating Effectively"
-                      expanded: true
-                      children: []
-                    - key: iENm7Q-sWezDegJBNXTNq
-                      type: folder
-                      title: Flow State
-                      expanded: true
-                      children: []
-                    - key: rj0OL4zx8pRyFgN0E5oZO
-                      type: folder
-                      title: Taylorism
-                      expanded: true
-                      children: []
-                    - key: 0BzqRjKt-PIvtNbKyl2nz
-                      type: folder
-                      title: "Agile Manifesto: Flow vs Taylorism"
-                      expanded: true
-                      children: []
-                    - key: cew0UwPz3Vrf_kGA8fUgl
-                      type: folder
-                      title: "Planning: knowing when and how much to plan"
-                      expanded: true
-                      children: []
-                    - key: ltKx8VjVIFSKPzPoVSXkV
-                      type: folder
-                      title: "Accountability: critical thinking and the problem of ownership"
-                      expanded: true
-                      children: []
-            - key: LfSIay3ycJ1wjRF3FbMgM
-              type: folder
-              title: Major Topics
-              expanded: true
-              children:
-                - key: B2BltftgGDmh9YNU88Pgz
-                  type: folder
-                  title: Card, Conversation, Confirmation
-                  expanded: true
-                  children:
-                    - key: NVAk4O8twsOQSM9Im3viO
-                      type: folder
-                      title: How Example Mapping works (by Example)
-                      expanded: true
-                      children: []
-                - key: vTFC-7BFuCecfpyIJwdtG
-                  type: folder
-                  title: Specifications in Git
+                  title: How Example Mapping works (by Example)
                   expanded: true
                   children: []
-                - key: N8bB4cVW8xkrEFP5M8PpM
-                  type: folder
-                  title: Measuring Feature Outcomes
+            - key: vTFC-7BFuCecfpyIJwdtG
+              type: folder
+              title: Specifications in Git
+              expanded: true
+              children: []
+            - key: N8bB4cVW8xkrEFP5M8PpM
+              type: folder
+              title: Measuring Feature Outcomes
+              expanded: true
+              children: []
+        - key: On3STBErhFufEWnCDrtc5
+          type: folder
+          title: Hosting
+          expanded: true
+          children: []
+    - key: y-BF5OkWApXhhV03B3nSc
+      type: folder
+      title: Product
+      expanded: true
+      children:
+        - key: tUbIj7Dr9UbvA3X4vipSq
+          type: folder
+          title: Done
+          expanded: true
+          children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
+            - key: RR6kaqAHgchs2-SqWXNU7
+              type: folder
+              title: 🐞 Render Images (properly)
+              expanded: true
+              children: []
+            - key: T8zxKSlYoLYgUnMTdhO7K
+              type: folder
+              title: 🐞 Don't select node if only dragging or collapsing/expanding
+              expanded: true
+              children: []
+            - key: 96qjPAQ85xXRsj2u4QlXr
+              type: folder
+              title: 🐞 Node selection doesn't work after adding new
+              expanded: true
+              children: []
+            - key: nhcELHNp5OQjVVeoN-aU3
+              type: folder
+              title: 🐞 Handle delete root node
+              expanded: true
+              children: []
+            - key: uN7ekP44XANwwC-_GncEj
+              type: folder
+              title: Git Pull
+              expanded: true
+              children: []
+            - key: VlOp9DNcnxIXlBTUro8sk
+              type: folder
+              title: "Responsive Layout: GitFeatures.com 📱"
+              expanded: true
+              children: []
+            - key: mm1mgD3i-8zSoNxvvetxu
+              type: folder
+              title: Rename Identifiers
+              expanded: true
+              children: []
+            - key: gs1-gSlF2erirRcoOhj4w
+              type: folder
+              title: Install PeerTube + Setup
+              expanded: true
+              children: []
+            - key: wQMUL7wvaaJcu8pwLImSi
+              type: folder
+              title: "CLI launcher: custom JSON / Options"
+              expanded: true
+              children: []
+            - key: kcimcka5b_-tVPkHqbNDX
+              type: folder
+              title: Yarn Config/Launcher to inject vars into header
+              expanded: true
+              children: []
+            - key: fXxDUdi7AWF0Ao9k7O8Jz
+              type: folder
+              title: Fix TypeScript types
+              expanded: true
+              children: []
+            - key: fXjrNx30bsL9qjPx_bNfZ
+              type: folder
+              title: Add first component tests retrospectively
+              expanded: true
+              children: []
+            - key: nm84WAacB3042NhJjNXVb
+              type: folder
+              title: Add sketch feature
+              expanded: true
+              tags:
+                - type: text
+                  name: 🤓 Roland Quast
+              children:
+                - key: qjVfDvd_ZJhhaJoXNbEsQ
+                  type: feature
+                  title: Sketch Component
                   expanded: true
                   children: []
-            - key: On3STBErhFufEWnCDrtc5
+            - key: EXyNPxFeoYVt-0Y6Jukfo
               type: folder
-              title: Hosting
+              title: Add acknowledgement message
+              expanded: true
+              children:
+                - key: Jd44jI3od7edXKMu4gmgn
+                  type: feature
+                  title: Acknowledgement Message
+                  expanded: true
+                  children: []
+            - key: 5wI2dH-p9Torp3O2smpXI
+              type: folder
+              title: Remove broken emoticons
+              expanded: true
+              children: []
+            - key: ROMnGLh_SdHb02Q0m0vCI
+              type: folder
+              title: Record Videos
+              expanded: true
+              children: []
+            - key: vCzhveFxwqj9YEkfLCENw
+              type: folder
+              title: Example Map tutorial drawer
+              expanded: true
+              children: []
+            - key: SOlRYcA2NeMHxy-fwirlx
+              type: folder
+              title: Make editor buttons scroll with window
+              expanded: true
+              children: []
+            - key: 8xE6Up5Lk8-agiN9g5j6i
+              type: folder
+              title: Dropdown on URL bar for list of all projects
+              expanded: true
+              children: []
+        - key: jUq6qQFEXQunl9uTwKu0g
+          type: folder
+          title: Backlog
+          expanded: true
+          children:
+            - key: vC0XC3P5BUF16Iddns_tx
+              type: folder
+              title: Status modal for long-running actions
+              expanded: true
+              children: []
+            - key: OqVGL4m5Pi6RahD6PsRk2
+              type: folder
+              title: Check remote repo for changes frequently
+              expanded: true
+              children: []
+            - key: -xyzPaDJekr99JNxJhtc9
+              type: folder
+              title: Search Functionality
+              expanded: true
+              children: []
+            - key: O-SHwipgSQoCWWqReT62G
+              type: folder
+              title: Undo/redo Functionality
+              expanded: true
+              children: []
+            - key: OaC-fXVxgfCVP-D5ouB_w
+              type: folder
+              title: Query router for node identifiers and git URL
+              expanded: true
+              children: []
+            - key: gcoyZKsc03VHrACn0hmHs
+              type: folder
+              title: Responsive Layout for app
               expanded: true
               children: []

@@ -1,0 +1,1 @@
+Add interfaces where needed and no any as far as possible.
