@@ -22,7 +22,27 @@
                   type: folder
                   title: Quick Start Guide
                   expanded: true
-                  children: []
+                  children:
+                    - key: f3U033wb__TQ8eOOOYsxk
+                      type: folder
+                      title: Discuss Why first (under 1 minute)
+                      expanded: true
+                      children: []
+                    - key: FaDXhbkupRXP6nRG5vTYu
+                      type: folder
+                      title: How to run (locally, hosted, app.gitfeatures.com)
+                      expanded: true
+                      children: []
+                    - key: Rb7JjLTfI5SpSeCNVxBmW
+                      type: folder
+                      title: Adding things like a mindmap
+                      expanded: true
+                      children: []
+                    - key: NKJT5geBszsKbrPJcYCmT
+                      type: folder
+                      title: Writing content
+                      expanded: true
+                      children: []
             - key: LfSIay3ycJ1wjRF3FbMgM
               type: folder
               title: Major Topics
@@ -30,12 +50,42 @@
               children:
                 - key: i4VTvXUW_pqa8Kp0Aki_4
                   type: folder
-                  title: Why GitFeatures?
+                  title: Philosophy of GitFeatures
                   expanded: true
                   children:
+                    - key: 6pOdE0QW7W9DIwxap8ro2
+                      type: folder
+                      title: Guiding best practices with a low cognitive impact
+                      expanded: true
+                      children: []
                     - key: iENm7Q-sWezDegJBNXTNq
                       type: folder
                       title: Flow State
+                      expanded: true
+                      children: []
+                    - key: rj0OL4zx8pRyFgN0E5oZO
+                      type: folder
+                      title: Taylorism
+                      expanded: true
+                      children: []
+                    - key: 0BzqRjKt-PIvtNbKyl2nz
+                      type: folder
+                      title: "Agile Manifesto: Flow vs Taylorism"
+                      expanded: true
+                      children: []
+                    - key: cew0UwPz3Vrf_kGA8fUgl
+                      type: folder
+                      title: "Just-in-time: delay planning for as long as is practical"
+                      expanded: true
+                      children: []
+                    - key: fAZfgnXAqgeGoVuZ6TFu9
+                      type: folder
+                      title: "Small Teams: Working & Communicating Effectively"
+                      expanded: true
+                      children: []
+                    - key: ltKx8VjVIFSKPzPoVSXkV
+                      type: folder
+                      title: "Accountability: ownership through recognition"
                       expanded: true
                       children: []
                 - key: B2BltftgGDmh9YNU88Pgz

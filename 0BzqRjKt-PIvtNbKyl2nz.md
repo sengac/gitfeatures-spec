@@ -1,0 +1,6 @@
+The manifesto for agile software development is really a critique of the way many western organizations tend to write software and do business.
+
+- The things on the "right" in the manifesto is Taylorism. Taylorism (Scientific Management) focuses on constraint, empirical measurement, risk management, predictability through process and rigid abstractions and betterment of the organization through automation and the simplification of complexity. Though Taylorism often crushes the individual, it also aids harmony, control and sometimes efficiency.
+- The things on the "left" in the manifesto is Flow. Flow focuses on freedom, vision, creativity, craftsmanship, agility and betterment of the individual and collective. It understands that humans create abstractions that are too general and often get in the way of people doing the right things or thinking for themselves. Flow aids leadership and innovation.
+
+The manifesto states that while the things on the right matter, we should value the things on the left more. The manifesto is a statement of common sense. If the people aren't happy and the organization isn't innovating, it's going to fail. It also says that it needs both things to work - agility needs both, but balance is hard to achieve when management only knows or cares about Taylorism.

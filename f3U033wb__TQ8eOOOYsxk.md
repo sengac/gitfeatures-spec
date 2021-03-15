@@ -1,0 +1,8 @@
+- Working in the industry is often a pain, everyone has an opinion and things often fail
+- Software development is a creative art
+- Flow State
+- Quality software development in a team is like a martial art
+- Mind Mapping to get your ideas out
+- Git version control for transparency and ubiquity
+- Acceptance Criteria because people need to know what to do
+- Measure the validity of what you've developed
