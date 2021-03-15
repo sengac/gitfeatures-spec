@@ -12,4 +12,4 @@ Why does that sound so familiar? Organizations have a tendency to become more an
 
 The HBO TV series, "Chernobyl", depeicted this. It implied that Lenin's adoption of Scientific Management was the root cause of the catastropic failure to properly handle the incident. Much of the same can be said when similar incidents occur in organizations - there's always a scapegoat to blame when the system doesn't work properly.
 
-Without the ability to openly and transparently critique a system, who would want to own anything in such a system?
+Without the ability to respectfully, openly and transparently critique a system, who would want to own anything in such a system?

@@ -33,6 +33,11 @@
                       title: How to run (locally, hosted, app.gitfeatures.com)
                       expanded: true
                       children: []
+                    - key: UlvkAZFXTiaZhhkjZ2w6P
+                      type: folder
+                      title: Cloning your first repository
+                      expanded: true
+                      children: []
                     - key: Rb7JjLTfI5SpSeCNVxBmW
                       type: folder
                       title: Adding things like a mindmap
@@ -41,6 +46,16 @@
                     - key: NKJT5geBszsKbrPJcYCmT
                       type: folder
                       title: Writing content
+                      expanded: true
+                      children: []
+                    - key: 2-2sFUbaqpPQmVTydwXRk
+                      type: folder
+                      title: Folders, Features & Example Maps
+                      expanded: true
+                      children: []
+                    - key: SXs5zV2zTgFI1Xv6Luobg
+                      type: folder
+                      title: Stories, Rules, Examples & Questions
                       expanded: true
                       children: []
             - key: LfSIay3ycJ1wjRF3FbMgM
@@ -56,6 +71,16 @@
                     - key: 6pOdE0QW7W9DIwxap8ro2
                       type: folder
                       title: Guiding best practices with a low cognitive impact
+                      expanded: true
+                      children: []
+                    - key: awqFc_8wia-twqwn4j9lh
+                      type: folder
+                      title: The value of "Deep Context"
+                      expanded: true
+                      children: []
+                    - key: fAZfgnXAqgeGoVuZ6TFu9
+                      type: folder
+                      title: "Small Teams: Working & Communicating Effectively"
                       expanded: true
                       children: []
                     - key: iENm7Q-sWezDegJBNXTNq
@@ -76,16 +101,6 @@
                     - key: cew0UwPz3Vrf_kGA8fUgl
                       type: folder
                       title: "Planning: knowing when and how much to plan"
-                      expanded: true
-                      children: []
-                    - key: fAZfgnXAqgeGoVuZ6TFu9
-                      type: folder
-                      title: "Small Teams: Working & Communicating Effectively"
-                      expanded: true
-                      children: []
-                    - key: awqFc_8wia-twqwn4j9lh
-                      type: folder
-                      title: The value of "Deep Context"
                       expanded: true
                       children: []
                     - key: ltKx8VjVIFSKPzPoVSXkV
