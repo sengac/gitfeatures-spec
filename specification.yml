@@ -58,6 +58,26 @@
                       title: Stories, Rules, Examples & Questions
                       expanded: true
                       children: []
+                - key: ilGB0Cd2FxdlacB0THJtn
+                  type: folder
+                  title: Configuring Git
+                  expanded: true
+                  children: []
+                - key: L9xH4tMiTkHWMQyfTYrXx
+                  type: folder
+                  title: Working with Git
+                  expanded: true
+                  children: []
+                - key: kieolgLHq-RTlu3oPhH8E
+                  type: folder
+                  title: Self-hosting GitFeatures
+                  expanded: true
+                  children: []
+                - key: -NaYXmruh2-3TH2FYhfkn
+                  type: folder
+                  title: CORS Proxy Options
+                  expanded: true
+                  children: []
             - key: LfSIay3ycJ1wjRF3FbMgM
               type: folder
               title: Major Topics
