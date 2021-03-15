@@ -4,3 +4,5 @@ The manifesto for agile software development is really a critique of the way man
 - The things on the "left" in the manifesto is Flow. Flow focuses on freedom, vision, creativity, craftsmanship, agility and betterment of the individual and collective. It understands that humans create abstractions that are too general and often get in the way of people doing the right things or thinking for themselves. Flow aids leadership and innovation.
 
 The manifesto states that while the things on the right matter, we should value the things on the left more. The manifesto is a statement of common sense. If the people aren't happy and the organization isn't innovating, it's going to fail. It also says that it needs both things to work - agility needs both, but balance is hard to achieve when management only knows or cares about Taylorism.
+
+Interestingly, Scrum is an interpretation of these ideas and is based on the way armies operate. At the ground level, the team needs to make their own decisions, but the whole operation must be managed in a scientific and strategic way.

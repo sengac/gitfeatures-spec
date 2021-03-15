@@ -1,0 +1,3 @@
+"The most valuable asset in the software industry is the synthesis of programming skill and deep context in the business problem domain, in one skull." - https://www.linkedin.com/pulse/hard-thing-software-development-jesse-watson/
+
+The value of programming is becoming increasingly worthless unless it's paired with people who can truly empathise and understand the needs of the organization and others.
