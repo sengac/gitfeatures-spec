@@ -1,8 +1,9 @@
-- Working in the industry is often a pain, everyone has an opinion and things often fail
-- Software development is a creative art
-- Flow State
-- Quality software development in a team is like a martial art
-- Mind Mapping to get your ideas out
+- Most software development is a creative art, not a science
+- Working in the industry is a pain, everyone has an opinion on what to do and how to do it - things often fail
+- Methods like Specification by Example have been around for over 10 years, but still rarely used
+- Forget about the Agile industrial complex
+- Guide people with *simple* tools, methods and examples
+- Mind mapping to get your ideas out
 - Git version control for transparency and ubiquity
-- Acceptance Criteria because people need to know what to do
-- Measure the validity of what you've developed
+- Acceptance criteria because people need to know what to do
+- Check the validity of what you've developed
