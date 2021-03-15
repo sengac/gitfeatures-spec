@@ -1,1 +1,5 @@
-Failing to plan is planning to fail, but planning too early is failing to plan correctly. Instead, focus on goals. Lean kanban tends to focus on just-in-time for highly-skilled teams, scrum tends to focus on goal setting through swarming and sprints. Both generally delay planning, but a lot of people don't know how to do planning in these models. When and where are the plans made and stored? How are the plans validated?
+Failing to plan is planning to fail, but planning too much too early is failing to plan correctly. Instead, focus on goals. Lean kanban tends to focus on just-in-time for highly-skilled teams, scrum tends to focus on goal setting through swarming and sprints. Both generally defer planning (compared to waterfall), but a lot of people don't know how to do planning in these models. When and where are the plans made and stored? How are the plans validated? Planning should start immediately, but it's an art to plan the right amount and not go too far ahead.
+
+For example, anything you think of - add it to the plan for a topic, don't ignore it. However, don't go too far down a path if it is not ready to be done. If you do, you may spend a lot of time planning for something that you don't clearly understand.
+
+Mindmaps are a great way to keep ideas for planning organized.
