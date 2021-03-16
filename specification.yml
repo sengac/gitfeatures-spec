@@ -247,12 +247,32 @@
           type: folder
           title: Done
           expanded: true
-          children: []
+          children:
+            - key: gs1-gSlF2erirRcoOhj4w
+              type: folder
+              title: Install PeerTube + Setup
+              expanded: true
+              children: []
         - key: 9aNFE9-MCUeyXGZiz2ucf
           type: folder
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
+            - key: kcimcka5b_-tVPkHqbNDX
+              type: folder
+              title: Yarn Config/Launcher to inject vars into header
+              expanded: true
+              children: []
+            - key: wQMUL7wvaaJcu8pwLImSi
+              type: folder
+              title: "CLI launcher: custom JSON / Options"
+              expanded: true
+              children: []
+            - key: uN7ekP44XANwwC-_GncEj
+              type: folder
+              title: Git Pull
+              expanded: true
+              children: []
             - key: RR6kaqAHgchs2-SqWXNU7
               type: folder
               title: 🐞 Render Images (properly)
@@ -273,11 +293,6 @@
               title: 🐞 Handle delete root node
               expanded: true
               children: []
-            - key: uN7ekP44XANwwC-_GncEj
-              type: folder
-              title: Git Pull
-              expanded: true
-              children: []
             - key: VlOp9DNcnxIXlBTUro8sk
               type: folder
               title: "Responsive Layout: GitFeatures.com 📱"
@@ -286,21 +301,6 @@
             - key: mm1mgD3i-8zSoNxvvetxu
               type: folder
               title: Rename Identifiers
-              expanded: true
-              children: []
-            - key: gs1-gSlF2erirRcoOhj4w
-              type: folder
-              title: Install PeerTube + Setup
-              expanded: true
-              children: []
-            - key: wQMUL7wvaaJcu8pwLImSi
-              type: folder
-              title: "CLI launcher: custom JSON / Options"
-              expanded: true
-              children: []
-            - key: kcimcka5b_-tVPkHqbNDX
-              type: folder
-              title: Yarn Config/Launcher to inject vars into header
               expanded: true
               children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
