@@ -1,0 +1,1 @@
+Was caused by collapsed nodes getting counted in the tree node index counter.

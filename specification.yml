@@ -253,11 +253,6 @@
               title: Install PeerTube + Setup
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: kcimcka5b_-tVPkHqbNDX
               type: folder
               title: Yarn Config/Launcher to inject vars into header
@@ -268,19 +263,9 @@
               title: "CLI launcher: custom JSON / Options"
               expanded: true
               children: []
-            - key: uN7ekP44XANwwC-_GncEj
+            - key: bgbN0N87YjG_Gx1N0iOnL
               type: folder
-              title: Git Pull
-              expanded: true
-              children: []
-            - key: RR6kaqAHgchs2-SqWXNU7
-              type: folder
-              title: 🐞 Render Images (properly)
-              expanded: true
-              children: []
-            - key: T8zxKSlYoLYgUnMTdhO7K
-              type: folder
-              title: 🐞 Don't select node if only dragging or collapsing/expanding
+              title: Show launcher options & flag for open
               expanded: true
               children: []
             - key: 96qjPAQ85xXRsj2u4QlXr
@@ -288,9 +273,29 @@
               title: 🐞 Node selection doesn't work after adding new
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
+            - key: T8zxKSlYoLYgUnMTdhO7K
+              type: folder
+              title: 🐞 Don't select node if only dragging or collapsing/expanding
+              expanded: true
+              children: []
+            - key: RR6kaqAHgchs2-SqWXNU7
+              type: folder
+              title: 🐞 Render Images (properly)
+              expanded: true
+              children: []
             - key: nhcELHNp5OQjVVeoN-aU3
               type: folder
               title: 🐞 Handle delete root node
+              expanded: true
+              children: []
+            - key: uN7ekP44XANwwC-_GncEj
+              type: folder
+              title: Git Pull
               expanded: true
               children: []
             - key: VlOp9DNcnxIXlBTUro8sk
@@ -374,7 +379,7 @@
         - key: jUq6qQFEXQunl9uTwKu0g
           type: folder
           title: Backlog
-          expanded: false
+          expanded: true
           children:
             - key: vC0XC3P5BUF16Iddns_tx
               type: folder
