@@ -283,16 +283,16 @@
               title: 🐞 Don't select node if only dragging or collapsing/expanding
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: nhcELHNp5OQjVVeoN-aU3
               type: folder
               title: 🐞 Handle delete root node
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: RR6kaqAHgchs2-SqWXNU7
               type: folder
               title: 🐞 Render Images (properly)
