@@ -298,14 +298,19 @@
               title: Handle divider resize properly
               expanded: true
               children: []
+            - key: 0s93sbCjvpqztD-LKv25x
+              type: folder
+              title: Include files in repository download
+              expanded: true
+              children: []
         - key: 9aNFE9-MCUeyXGZiz2ucf
           type: folder
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
-            - key: 0s93sbCjvpqztD-LKv25x
+            - key: 5yrtOm29sTmGkb7twGN-_
               type: folder
-              title: Include files in repository download
+              title: 🐞 Fix image filename bug when adding markdown
               expanded: true
               children: []
             - key: pP_K0lTvm0cPNbMT9_uph
