@@ -313,16 +313,16 @@
               title: 🐞  Don't save feature-toggles.yml if empty
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: PZJDMRVxAbOrzXaG65zlP
               type: folder
               title: 🐞 Fix multiple editor open/save (in features)
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: j8yPYaIXOWnhPwpI43UiK
               type: folder
               title: 🐞 Fix markdown SVG images
@@ -338,6 +338,11 @@
               title: 🐞 Delete modal to scroll on overflow of list
               expanded: true
               children: []
+            - key: bmdTSToaKJMvpS0sENiCz
+              type: folder
+              title: Use sessionStorage to keep last selected node/index
+              expanded: true
+              children: []
             - key: IwjYEue6ac_pvRIPef_Xq
               type: folder
               title: Remove index.js re-export
@@ -351,11 +356,6 @@
             - key: fosCZQe_L9j2XuzIS7KtD
               type: folder
               title: Use safe mode for content editor
-              expanded: true
-              children: []
-            - key: bmdTSToaKJMvpS0sENiCz
-              type: folder
-              title: Use sessionStorage to keep last selected node/index
               expanded: true
               children: []
             - key: T8MKsvucqQgM_7qnSAd1H
