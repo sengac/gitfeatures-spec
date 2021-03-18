@@ -328,6 +328,11 @@
               title: 🐞 Fix PGP signing
               expanded: true
               children: []
+            - key: 1V9L3Q1-04rWNjsrWjO2_
+              type: folder
+              title: 🐞 Delete modal to scroll on overflow of list
+              expanded: true
+              children: []
             - key: IwjYEue6ac_pvRIPef_Xq
               type: folder
               title: Remove index.js re-export
@@ -386,6 +391,11 @@
             - key: 5wI2dH-p9Torp3O2smpXI
               type: folder
               title: Remove broken emoticons
+              expanded: true
+              children: []
+            - key: 4mtbYr0Gr_S92hJp1Sdmu
+              type: folder
+              title: Uncommited changes diff view
               expanded: true
               children: []
             - key: EXyNPxFeoYVt-0Y6Jukfo

@@ -1,0 +1,1 @@
+Have a way to view the uncommitted changes in some kind of diff view. If it doesn't diff, clear the uncommitted changes flag.
