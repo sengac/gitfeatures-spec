@@ -323,6 +323,11 @@
               title: 🐞 Fix multiple editor open/save (in features)
               expanded: true
               children: []
+            - key: j8yPYaIXOWnhPwpI43UiK
+              type: folder
+              title: 🐞 Fix markdown SVG images
+              expanded: true
+              children: []
             - key: pP_K0lTvm0cPNbMT9_uph
               type: folder
               title: 🐞 Fix PGP signing
