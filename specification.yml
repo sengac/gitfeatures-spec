@@ -323,6 +323,11 @@
               title: 🐞 Fix markdown SVG images
               expanded: true
               children: []
+            - key: bmdTSToaKJMvpS0sENiCz
+              type: folder
+              title: Use sessionStorage to keep last selected node/index
+              expanded: true
+              children: []
         - key: 9aNFE9-MCUeyXGZiz2ucf
           type: folder
           title: "In Progress: Release MVP alpha by 2 April 🚀"
@@ -336,11 +341,6 @@
             - key: 1V9L3Q1-04rWNjsrWjO2_
               type: folder
               title: 🐞 Delete modal to scroll on overflow of list
-              expanded: true
-              children: []
-            - key: bmdTSToaKJMvpS0sENiCz
-              type: folder
-              title: Use sessionStorage to keep last selected node/index
               expanded: true
               children: []
             - key: IwjYEue6ac_pvRIPef_Xq
