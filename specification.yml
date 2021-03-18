@@ -313,6 +313,16 @@
               title: 🐞 Fix image filename bug when adding markdown
               expanded: true
               children: []
+            - key: fosCZQe_L9j2XuzIS7KtD
+              type: folder
+              title: Use safe mode for content editor
+              expanded: true
+              children: []
+            - key: M5Yigia0j33j9prQRtaUz
+              type: folder
+              title: Don't save feature-toggles.yml if empty
+              expanded: true
+              children: []
             - key: pP_K0lTvm0cPNbMT9_uph
               type: folder
               title: Fix PGP signing
