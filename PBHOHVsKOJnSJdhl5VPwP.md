@@ -1,5 +1,6 @@
 ```image
-logo.svg
+light=logo.svg
+dark=logo-dark.svg
 ```
 
 ### Initial commit
