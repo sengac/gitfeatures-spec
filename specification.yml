@@ -313,19 +313,34 @@
               title: 🐞 Fix image filename bug when adding markdown
               expanded: true
               children: []
+            - key: M5Yigia0j33j9prQRtaUz
+              type: folder
+              title: 🐞  Don't save feature-toggles.yml if empty
+              expanded: true
+              children: []
+            - key: PZJDMRVxAbOrzXaG65zlP
+              type: folder
+              title: 🐞 Fix multiple editor open/save (in features)
+              expanded: true
+              children: []
+            - key: pP_K0lTvm0cPNbMT9_uph
+              type: folder
+              title: 🐞 Fix PGP signing
+              expanded: true
+              children: []
             - key: fosCZQe_L9j2XuzIS7KtD
               type: folder
               title: Use safe mode for content editor
               expanded: true
               children: []
-            - key: M5Yigia0j33j9prQRtaUz
+            - key: bmdTSToaKJMvpS0sENiCz
               type: folder
-              title: Don't save feature-toggles.yml if empty
+              title: Use sessionStorage to keep last selected node/index
               expanded: true
               children: []
-            - key: pP_K0lTvm0cPNbMT9_uph
+            - key: T8MKsvucqQgM_7qnSAd1H
               type: folder
-              title: Fix PGP signing
+              title: Add README.md for launcher/public
               expanded: true
               children: []
             - key: B211Kjp3KOon9pOsX88_7
@@ -358,6 +373,21 @@
               title: Add first component tests retrospectively
               expanded: true
               children: []
+            - key: 5wI2dH-p9Torp3O2smpXI
+              type: folder
+              title: Remove broken emoticons
+              expanded: true
+              children: []
+            - key: EXyNPxFeoYVt-0Y6Jukfo
+              type: folder
+              title: Add acknowledgement message
+              expanded: true
+              children:
+                - key: Jd44jI3od7edXKMu4gmgn
+                  type: feature
+                  title: Acknowledgement Message
+                  expanded: true
+                  children: []
             - key: nm84WAacB3042NhJjNXVb
               type: folder
               title: Add sketch feature
@@ -381,21 +411,6 @@
                       title: Handle pen input
                       expanded: true
                       children: []
-            - key: EXyNPxFeoYVt-0Y6Jukfo
-              type: folder
-              title: Add acknowledgement message
-              expanded: true
-              children:
-                - key: Jd44jI3od7edXKMu4gmgn
-                  type: feature
-                  title: Acknowledgement Message
-                  expanded: true
-                  children: []
-            - key: 5wI2dH-p9Torp3O2smpXI
-              type: folder
-              title: Remove broken emoticons
-              expanded: true
-              children: []
             - key: ROMnGLh_SdHb02Q0m0vCI
               type: folder
               title: Record Videos
