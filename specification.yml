@@ -348,6 +348,16 @@
               title: 🐞 Delete modal to scroll on overflow of list
               expanded: true
               children: []
+            - key: 85pjGmm4RV0LbhFC4aEb-
+              type: folder
+              title: Create URL filter for proxy
+              expanded: true
+              children: []
+            - key: WpUGPuep3bnWZh9jeddUt
+              type: folder
+              title: Make public proxy
+              expanded: true
+              children: []
             - key: mm1mgD3i-8zSoNxvvetxu
               type: folder
               title: Rename Identifiers
