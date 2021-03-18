@@ -328,6 +328,16 @@
               title: 🐞 Fix PGP signing
               expanded: true
               children: []
+            - key: IwjYEue6ac_pvRIPef_Xq
+              type: folder
+              title: Remove index.js re-export
+              expanded: true
+              children: []
+            - key: vfzVTGmiivgaGBrHGSiJT
+              type: folder
+              title: Run prettier with right rules to reformat
+              expanded: true
+              children: []
             - key: fosCZQe_L9j2XuzIS7KtD
               type: folder
               title: Use safe mode for content editor
