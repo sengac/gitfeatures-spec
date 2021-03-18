@@ -338,9 +338,19 @@
               title: 🐞 Fix PGP signing
               expanded: true
               children: []
+            - key: 9A9SIoyymzpesfXebF5Ck
+              type: folder
+              title: 🐞 On revert, don't restore missing selections
+              expanded: true
+              children: []
             - key: 1V9L3Q1-04rWNjsrWjO2_
               type: folder
               title: 🐞 Delete modal to scroll on overflow of list
+              expanded: true
+              children: []
+            - key: mm1mgD3i-8zSoNxvvetxu
+              type: folder
+              title: Rename Identifiers
               expanded: true
               children: []
             - key: IwjYEue6ac_pvRIPef_Xq
@@ -366,11 +376,6 @@
             - key: B211Kjp3KOon9pOsX88_7
               type: folder
               title: Setup a proxy token system
-              expanded: true
-              children: []
-            - key: mm1mgD3i-8zSoNxvvetxu
-              type: folder
-              title: Rename Identifiers
               expanded: true
               children: []
             - key: uN7ekP44XANwwC-_GncEj
