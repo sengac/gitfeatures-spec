@@ -358,6 +358,54 @@
               title: Drag past boundaries to auto drawers
               expanded: true
               children: []
+            - key: mm1mgD3i-8zSoNxvvetxu
+              type: folder
+              title: Rename Identifiers
+              expanded: true
+              children: []
+            - key: EXyNPxFeoYVt-0Y6Jukfo
+              type: folder
+              title: Add acknowledgement message
+              expanded: true
+              children:
+                - key: Jd44jI3od7edXKMu4gmgn
+                  type: feature
+                  title: Acknowledgement Message
+                  expanded: true
+                  children: []
+            - key: 5wI2dH-p9Torp3O2smpXI
+              type: folder
+              title: Remove broken emoticons
+              expanded: true
+              children: []
+            - key: IwjYEue6ac_pvRIPef_Xq
+              type: folder
+              title: Remove index.js re-export
+              expanded: true
+              children: []
+            - key: nm84WAacB3042NhJjNXVb
+              type: folder
+              title: Add sketch feature
+              expanded: true
+              tags:
+                - type: text
+                  name: 🤓 Roland Quast
+              children:
+                - key: qjVfDvd_ZJhhaJoXNbEsQ
+                  type: feature
+                  title: Sketch Component
+                  expanded: true
+                  children:
+                    - key: 6e71FMSs3oC_ZrhZkcCxE
+                      type: map
+                      title: Save and restore from markdown
+                      expanded: true
+                      children: []
+                    - key: Ao6fwNcyPaktN7mz0xj6S
+                      type: map
+                      title: Handle pen input
+                      expanded: true
+                      children: []
             - key: 85pjGmm4RV0LbhFC4aEb-
               type: folder
               title: Create URL filter for proxy
@@ -366,16 +414,6 @@
             - key: WpUGPuep3bnWZh9jeddUt
               type: folder
               title: Make public proxy
-              expanded: true
-              children: []
-            - key: mm1mgD3i-8zSoNxvvetxu
-              type: folder
-              title: Rename Identifiers
-              expanded: true
-              children: []
-            - key: IwjYEue6ac_pvRIPef_Xq
-              type: folder
-              title: Remove index.js re-export
               expanded: true
               children: []
             - key: vfzVTGmiivgaGBrHGSiJT
@@ -418,49 +456,11 @@
               title: Add first component tests retrospectively
               expanded: true
               children: []
-            - key: 5wI2dH-p9Torp3O2smpXI
-              type: folder
-              title: Remove broken emoticons
-              expanded: true
-              children: []
             - key: 4mtbYr0Gr_S92hJp1Sdmu
               type: folder
               title: Uncommited changes diff view
               expanded: true
               children: []
-            - key: EXyNPxFeoYVt-0Y6Jukfo
-              type: folder
-              title: Add acknowledgement message
-              expanded: true
-              children:
-                - key: Jd44jI3od7edXKMu4gmgn
-                  type: feature
-                  title: Acknowledgement Message
-                  expanded: true
-                  children: []
-            - key: nm84WAacB3042NhJjNXVb
-              type: folder
-              title: Add sketch feature
-              expanded: true
-              tags:
-                - type: text
-                  name: 🤓 Roland Quast
-              children:
-                - key: qjVfDvd_ZJhhaJoXNbEsQ
-                  type: feature
-                  title: Sketch Component
-                  expanded: true
-                  children:
-                    - key: 6e71FMSs3oC_ZrhZkcCxE
-                      type: map
-                      title: Save and restore from markdown
-                      expanded: true
-                      children: []
-                    - key: Ao6fwNcyPaktN7mz0xj6S
-                      type: map
-                      title: Handle pen input
-                      expanded: true
-                      children: []
             - key: ROMnGLh_SdHb02Q0m0vCI
               type: folder
               title: Record Videos
