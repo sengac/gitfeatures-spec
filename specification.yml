@@ -328,16 +328,16 @@
               title: Use sessionStorage to keep last selected node/index
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: pP_K0lTvm0cPNbMT9_uph
               type: folder
               title: 🐞 Fix PGP signing
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: 9A9SIoyymzpesfXebF5Ck
               type: folder
               title: 🐞 On revert, don't restore missing selections
