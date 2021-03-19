@@ -1,0 +1,2 @@
+- also add support for touch down - not just mouse down for dragging
+- Should happen for the left nav, but for the right side it should just maximize (and let the user know it's doing this).
