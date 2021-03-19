@@ -358,6 +358,11 @@
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
+            - key: ngOHaOWL478TdTOes2X3o
+              type: folder
+              title: Add the slug in the title bar
+              expanded: true
+              children: []
             - key: mm1mgD3i-8zSoNxvvetxu
               type: folder
               title: Rename Identifiers

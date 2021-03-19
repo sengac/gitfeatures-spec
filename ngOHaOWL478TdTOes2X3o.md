@@ -1,0 +1,3 @@
+- add it in the title bar, also do validation after exiting the title
+- remove the hamburger
+- put delete somewhere obvious
