@@ -358,6 +358,16 @@
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
+            - key: XBdjBy_Bb9fQf2J-hlegj
+              type: folder
+              title: 🐞 Fix selection bug when nodes collapsed
+              expanded: true
+              children: []
+            - key: CJ9JILwRYMQCiBFdbrNWC
+              type: folder
+              title: 🐞 Make collapse of tree more elegant
+              expanded: true
+              children: []
             - key: ngOHaOWL478TdTOes2X3o
               type: folder
               title: Add the slug in the title bar
