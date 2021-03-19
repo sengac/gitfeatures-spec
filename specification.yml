@@ -338,6 +338,11 @@
               title: 🐞 On revert, don't restore missing selections
               expanded: true
               children: []
+            - key: hfetkBNa5nBIcrVPPAU4u
+              type: folder
+              title: Fix typo in email address
+              expanded: true
+              children: []
         - key: 9aNFE9-MCUeyXGZiz2ucf
           type: folder
           title: "In Progress: Release MVP alpha by 2 April 🚀"
