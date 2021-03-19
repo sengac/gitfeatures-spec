@@ -348,16 +348,16 @@
               title: 🐞 Delete modal to scroll on overflow of list
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: obkd0IusEFuVg5lpqDLmM
               type: folder
               title: Drag past boundaries to auto drawers
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: mm1mgD3i-8zSoNxvvetxu
               type: folder
               title: Rename Identifiers
@@ -406,6 +406,11 @@
                       title: Handle pen input
                       expanded: true
                       children: []
+            - key: 8xE6Up5Lk8-agiN9g5j6i
+              type: folder
+              title: Dropdown on URL bar for list of all projects
+              expanded: true
+              children: []
             - key: 85pjGmm4RV0LbhFC4aEb-
               type: folder
               title: Create URL filter for proxy
@@ -474,11 +479,6 @@
             - key: SOlRYcA2NeMHxy-fwirlx
               type: folder
               title: Make editor buttons scroll with window
-              expanded: true
-              children: []
-            - key: 8xE6Up5Lk8-agiN9g5j6i
-              type: folder
-              title: Dropdown on URL bar for list of all projects
               expanded: true
               children: []
         - key: jUq6qQFEXQunl9uTwKu0g
