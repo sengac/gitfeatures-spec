@@ -1,8 +1,22 @@
-Fueling Behavior-Driven Development
+### Helping you deliver the right software.
+GitFeatures is an [**acceptance criteria**](https://en.wikipedia.org/wiki/Acceptance_testing) (AC) and feature toggles management tool for formulating ACs (with Example Mapping), iterating them (with Git tagging), validating features (with feature toggles) and tracing decisions (with Git history). It does this by helping you with the basic steps of [Specification by Example](https://en.wikipedia.org/wiki/Specification_by_example) (SBE/BDD), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery) (CD) and [validation of features](https://en.wikipedia.org/wiki/Software_verification_and_validation#Software_validation).
+
+#### Who is GitFeatures for?
+Any product owner/manager, developer, tester, UX designer ([Four Amigos](https://medium.com/@daviddenham07/ux-the-fourth-amigo-63d10f506908)) or for anyone who is involved with analyzing software requirements - at any scale.
+
+#### Why?
+For continuity, it's often ideal to align versions of a software specification and currently released feature flags with the same system you version its source code with. Furthermore, the Definition of Ready (DoR) requires good acceptance criteria. Many organizations have a problem with this and understanding product ownership. Let's tell it with a story:
+
+Once upon a time, the Senior Management Group (SMG) of a big organization secured capital expenditure funds for improvements. Bob the manager, who recently attended the "Digital Transformation Professionals" conference, was singing praises about social media engagement platforms. "With this money, we could build a game changing way to improve customer relationships.", he thought. Finally, after months of goading his peers, he convinced SMG to fund his idea.
+
+When the project started, every day, everyone would sit in meeting after meeting for planning and status updates. Like many <s>fake agile</s> hybrid agile projects, they'd spend countless hours on multiple stages of manual tests. They'd patiently await the outcomes of steering committees and they'd record all decisions made in a registry for traceability. They'd dump all of their specifications into an internal, wiki-like documentation system that became hard to maintain. Frequently, specifications would differ greatly from the implementation.
+
+One day, a major feature of the project was completed and a demo was given to stakeholders. The product owner was very impressed. However, key stakeholders who rarely attended demos piped up. They said there was no involvement from their team and the feature cannot go ahead in its current form. Several months later the code was fixed, only for the team to be confronted by another stakeholder who derailed the project for a year. When the project started again, it was rushed to be "finished" because senior management announced its [imminent release](https://www.youtube.com/watch?v=5p8wTOr8AbU). Unfortunately, little thought was given to who would run the software, so SMG gave it to the marketing department. The buggy software had little impact on improving customer relationships. The head of marketing questioned why a social media engagement product was built when most of their customers don't use social media. The project was a failure and cost tens of millions of dollars. Managers and developers accused each other of being incompetent. The IT department's name was dirt.
+
+Until finally, a small team within the IT department decided to show how things should be done. The head of marketing suggested building a simple, customized, customer management system. Thinking this wouldn't be too hard if done with GitFeatures, the IT team performed a needs analysis by contacting stakeholders and gathering requirements with Example Mapping. They built and released features frequently with continuous integration. They validated the hypothesis for every feature delivered using A/B metrics and feature feedback with feature toggles. It was a success, and because it was run under an operational budget, it continued to grow and stay maintained without a premature end. The system rarely had bugs thanks to it being test and behaviour driven. The project was delivered within a few months and only cost tens of thousands of dollars.
+
+Now the IT department is the engine room of innovation. It has larger operational budgets because management now give the right people ownership of decisions. People became recognised for doing good work - all because they used a tool that helped them with the process for delivering the *right* software. 🌈🦄
 
 
-### Toggle Dark Mode:
-```image
-light=logo.svg
-dark=logo-dark.svg
-```
+#### How to use GitFeatures
+Follow these [tutorials](https://gitfeatures.com/tutorials).
