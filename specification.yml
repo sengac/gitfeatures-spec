@@ -11,7 +11,7 @@
     - key: piLpZ7qxQuWF90uCG1dGw
       type: folder
       title: Videos
-      expanded: true
+      expanded: false
       children:
         - key: o6FMuqH9AzF5vMaBaw--f
           type: folder
@@ -353,16 +353,16 @@
               title: Drag past boundaries to auto drawers
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: XBdjBy_Bb9fQf2J-hlegj
               type: folder
               title: 🐞 Fix selection bug when nodes collapsed
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: CJ9JILwRYMQCiBFdbrNWC
               type: folder
               title: 🐞 Make collapse of tree more elegant
