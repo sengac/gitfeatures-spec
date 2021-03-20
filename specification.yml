@@ -383,6 +383,11 @@
               title: Rename Identifiers
               expanded: true
               children: []
+            - key: validate-slugs
+              type: folder
+              title: Validate slugs
+              expanded: true
+              children: []
             - key: EHjl30BGcc29nQSRpRg0q
               type: folder
               title: Add tabbed edit/preview option for small screens
