@@ -363,16 +363,16 @@
               title: 🐞 Make collapse of tree more elegant
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: aMXH0a4QHz6YT8fzOgYsp
               type: folder
               title: Investigate crosshair alternatives for tree
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: ngOHaOWL478TdTOes2X3o
               type: folder
               title: Add the slug in the title bar
