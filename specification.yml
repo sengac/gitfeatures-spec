@@ -358,16 +358,16 @@
               title: 🐞 Fix selection bug when nodes collapsed
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: CJ9JILwRYMQCiBFdbrNWC
               type: folder
               title: 🐞 Make collapse of tree more elegant
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: aMXH0a4QHz6YT8fzOgYsp
               type: folder
               title: Investigate crosshair alternatives for tree
@@ -381,6 +381,11 @@
             - key: mm1mgD3i-8zSoNxvvetxu
               type: folder
               title: Rename Identifiers
+              expanded: true
+              children: []
+            - key: EHjl30BGcc29nQSRpRg0q
+              type: folder
+              title: Add tabbed edit/preview option for small screens
               expanded: true
               children: []
             - key: EXyNPxFeoYVt-0Y6Jukfo

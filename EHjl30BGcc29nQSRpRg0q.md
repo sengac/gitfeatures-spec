@@ -1,0 +1,1 @@
+- make this compulsory on/off when the parent container rectangle width is less than a certain amount.
