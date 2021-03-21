@@ -1,3 +1,15 @@
+The manifesto (in short):
+
+*Individuals and interactions over processes and tools*
+*Working software over comprehensive documentation*
+*Customer collaboration over contract negotiation*
+*Responding to change over following a plan*
+
+*That is, while there is value in the items on*
+*the right, we value the items on the left more.*
+
+### Discussion
+
 The manifesto for agile software development is really a critique of the way many western organizations tend to write software and do business.
 
 - The things on the "right" in the manifesto is Taylorism. Taylorism (Scientific Management) focuses on constraint, empirical measurement, risk management, predictability through repeatable process, (over) simplification, automation, rigid abstractions and the betterment of the processes in an organization. Though Taylorism often crushes the individual, it also aids with harmony, control and sometimes efficiency. In the extreme, this is structured heirachies and authoritarian **Order**.
