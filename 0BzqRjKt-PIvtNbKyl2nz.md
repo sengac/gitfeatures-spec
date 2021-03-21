@@ -5,4 +5,10 @@ The manifesto for agile software development is really a critique of the way man
 
 The manifesto states that while the things on the right matter, we should value the things on the left more. The manifesto is a statement of common sense. If the people aren't happy and the organization isn't serving its purpose, it's going to fail. It also says that it needs both things to work - but balance is hard to achieve when management only knows or cares about Taylorism.
 
+This manifesto owes its roots to Taoism. Alan Watts once said:
+
+"The Taoist is the kind of person that shows you the shortcut, and shows you how to do it by intelligence rather than effort. Daoism in that sense is what everyone is looking for, the easy way in - the shortcut, using cleverness instead of muscle."
+
+Wu Wei (flow state) is about using intelligence, Confucianism (like Scientific Management) uses muscle. This can clearly be seen in Chinese society - particularly today.
+
 Interestingly, Scrum is an interpretation of these ideas and is based on the way armies operate. At the ground level, the team needs to make their own decisions, but the whole operation must be managed in a scientific and strategic way.

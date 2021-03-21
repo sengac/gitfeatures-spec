@@ -11,7 +11,7 @@
     - key: piLpZ7qxQuWF90uCG1dGw
       type: folder
       title: Videos
-      expanded: false
+      expanded: true
       children:
         - key: o6FMuqH9AzF5vMaBaw--f
           type: folder
