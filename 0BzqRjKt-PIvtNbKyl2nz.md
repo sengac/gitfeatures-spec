@@ -7,8 +7,8 @@ The manifesto states that while the things on the right matter, we should value 
 
 More interestingly, this manifesto owes its roots to Taoism. Alan Watts once said:
 
-"The Taoist is the kind of person that shows you the shortcut, and shows you how to do it by intelligence rather than effort. Daoism in that sense is what everyone is looking for, the easy way in - the shortcut, using cleverness instead of muscle."
+"The Taoist is the kind of person that shows you the shortcut, and shows you how to do it by intelligence rather than effort. Taoism in that sense is what everyone is looking for, the easy way in - the shortcut, using cleverness instead of muscle."
 
 Wu Wei (flow state) is about using intelligence, Confucianism (like Scientific Management) uses muscle. This can clearly be seen in Chinese society - particularly today.
 
-Interestingly, Scrum is an interpretation of these ideas and is based on the way armies operate. At the ground level, the team needs to make their own decisions, but the whole operation must be managed in a scientific and strategic way.
+Interestingly, Scrum is an interpretation of these ideas and is based on the way armies operate. At the ground level, the team needs to make their own decisions so they don't get killed in action, but the whole operation must be managed in a scientific and strategic way.
