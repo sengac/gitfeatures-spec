@@ -27,4 +27,4 @@ More interestingly, the manifesto for agile software development owes its roots 
 
 Wu Wei (flow state) is about using intelligence, Confucianism (like Scientific Management) uses muscle. This can clearly be seen in Chinese society - particularly today.
 
-**If you choose to develop in an agile way, you must know and use intelligent shortcuts.**
+**If you choose to develop in an agile way, you must know and use intelligent shortcuts and this is what GitFeatures intends to help you with.**
