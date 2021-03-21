@@ -25,6 +25,6 @@ More interestingly, the manifesto for agile software development owes its roots 
 
 "The Taoist is the kind of person that shows you the shortcut, and shows you how to do it by intelligence rather than effort. Taoism in that sense is what everyone is looking for, the easy way in - the shortcut, using cleverness instead of muscle."
 
-Wu Wei (flow state) is about using intelligence, Confucianism (like Scientific Management) uses muscle. This can clearly be seen in Chinese society - particularly today.
+Wu Wei (the art of the flow state) is about the freedom to use intelligence, Confucianism (like Scientific Management) is about keeping order so things don't fall apart. Yin and Yang.
 
 **If you choose to develop in an agile way, you must know and use intelligent shortcuts and this is what GitFeatures intends to help you with.**
