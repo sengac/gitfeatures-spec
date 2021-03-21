@@ -12,3 +12,5 @@ More interestingly, this manifesto owes its roots to Taoism. Alan Watts once sai
 Wu Wei (flow state) is about using intelligence, Confucianism (like Scientific Management) uses muscle. This can clearly be seen in Chinese society - particularly today.
 
 Interestingly, Scrum is an interpretation of these ideas and is based on the way armies operate. At the ground level, the team needs to make their own decisions so they don't get killed in action, but the whole operation must be managed in a scientific and strategic way.
+
+Alternatively, Lean (using Kanban and Lean principles) draws more on inspiration from Zen Buddhism (which draws on Taoism) - since Toyota pionered the process. In this way, it is closer to flow than Scrum.
