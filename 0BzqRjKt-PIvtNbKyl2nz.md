@@ -17,12 +17,14 @@ The manifesto for agile software development is really a critique of the way man
 
 The manifesto states that while the things on the right matter, we should value the things on the left more. The manifesto is a statement of common sense. If the people aren't happy and the organization isn't serving its purpose, it's going to fail. It also says that it needs both things to work - but balance is hard to achieve when management only knows or cares about Taylorism.
 
-More interestingly, this [manifesto owes its roots to Taoism](https://en.wikipedia.org/wiki/Hirotaka_Takeuchi#The_New_New_Product_Development_Game). [Alan Watts once said](https://alanwatts.org/1-2-10-taoist-way-pt-2/):
+Of the popular agile frameworks, Scrum seems to have applied ideas of the way armies operate to its process. Army-like practices such as the scrum master, sprints, swarming, goal setting, and burndowns through estimation, help give commanding officers the warm and fuzzies while keeping the grunts focused. At the ground level, the team needs to make their own decisions so they don't get killed in action, but the whole operation must be managed in a risk managed, logistical and strategic way.
+
+Alternatively, Lean (using Kanban and Lean principles) draws more on inspiration from Zen Buddhism (influenced in this area by Taoism) reflecting the [TPS process pioneered by Toyota](https://en.wikipedia.org/wiki/Toyota_Production_System). In this way, it is closer to flow than Scrum. You may want to ask yourself when choosing between the two - are your team master ninjas or unthinking grunts that may need micromanaging in daily standups, sprint reviews and burndowns?
+
+More interestingly, the manifesto for agile software development owes its roots to Taoism thanks to [Hirotaka Takeuchi](https://en.wikipedia.org/wiki/Hirotaka_Takeuchi#The_New_New_Product_Development_Game). [Alan Watts once said](https://alanwatts.org/1-2-10-taoist-way-pt-2/):
 
 "The Taoist is the kind of person that shows you the shortcut, and shows you how to do it by intelligence rather than effort. Taoism in that sense is what everyone is looking for, the easy way in - the shortcut, using cleverness instead of muscle."
 
 Wu Wei (flow state) is about using intelligence, Confucianism (like Scientific Management) uses muscle. This can clearly be seen in Chinese society - particularly today.
 
-Interestingly, one of the founders of the manifesto and Scrum, [Jeff Sutherland](https://en.wikipedia.org/wiki/Jeff_Sutherland#Military_career), seems to have interpreted this by applying these ideas to the way armies operate. Army-like practices such as the scrum master, sprints, swarming, goal setting, and burndowns through estimation for giving management the warm and fuzzies. At the ground level, the team needs to make their own decisions so they don't get killed in action, but the whole operation must be managed in a risk managed, logistical and strategic way.
-
-Alternatively, Lean (using Kanban and Lean principles) draws more on inspiration from Zen Buddhism (influenced in this area by Taoism) reflecting the [TPS process pioneered by Toyota](https://en.wikipedia.org/wiki/Toyota_Production_System). In this way, it is closer to flow than Scrum. You may want to ask yourself when choosing between the two - are your team master ninjas or unthinking grunts that may need micromanaging in daily standups, sprint reviews and burndowns?
+**If you choose to develop in an agile way, you must know and use intelligent shortcuts.**
