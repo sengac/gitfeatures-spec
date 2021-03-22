@@ -383,16 +383,16 @@
               title: Validate slugs
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: EHjl30BGcc29nQSRpRg0q
               type: folder
               title: Add tabbed edit/preview option for small screens
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: BwXbTtEDm3O5s0w35Ef61
               type: folder
               title: 🐞 Fix reselection of map after renaming a map's slug
