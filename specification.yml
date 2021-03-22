@@ -368,11 +368,6 @@
               title: Investigate crosshair alternatives for tree
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: ngOHaOWL478TdTOes2X3o
               type: folder
               title: Add the slug in the title bar
@@ -388,6 +383,11 @@
               title: Validate slugs
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: EHjl30BGcc29nQSRpRg0q
               type: folder
               title: Add tabbed edit/preview option for small screens
