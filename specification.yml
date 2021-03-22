@@ -393,14 +393,19 @@
               title: 🐞 Fix reselection of map after renaming a map's slug
               expanded: true
               children: []
+            - key: 9qdLc8mV5D1ki11rBpULy
+              type: folder
+              title: 🐞 Insert emojis at cursor position for input elements
+              expanded: true
+              children: []
         - key: 9aNFE9-MCUeyXGZiz2ucf
           type: folder
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
-            - key: 9qdLc8mV5D1ki11rBpULy
+            - key: 5wI2dH-p9Torp3O2smpXI
               type: folder
-              title: 🐞 Insert emojis at cursor position for input elements
+              title: Remove broken emoticons
               expanded: true
               children: []
             - key: EXyNPxFeoYVt-0Y6Jukfo
@@ -413,11 +418,6 @@
                   title: Acknowledgement Message
                   expanded: true
                   children: []
-            - key: 5wI2dH-p9Torp3O2smpXI
-              type: folder
-              title: Remove broken emoticons
-              expanded: true
-              children: []
             - key: IwjYEue6ac_pvRIPef_Xq
               type: folder
               title: Remove index.js re-export
