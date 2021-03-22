@@ -393,6 +393,16 @@
               title: Add tabbed edit/preview option for small screens
               expanded: true
               children: []
+            - key: BwXbTtEDm3O5s0w35Ef61
+              type: folder
+              title: 🐞 Fix reselection of map after renaming a map's slug
+              expanded: true
+              children: []
+            - key: 9qdLc8mV5D1ki11rBpULy
+              type: folder
+              title: 🐞 Insert emojis at cursor position for input elements
+              expanded: true
+              children: []
             - key: EXyNPxFeoYVt-0Y6Jukfo
               type: folder
               title: Add acknowledgement message
