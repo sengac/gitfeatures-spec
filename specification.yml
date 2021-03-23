@@ -408,31 +408,16 @@
               title: Check minWidth on editor for small screens
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: 8xE6Up5Lk8-agiN9g5j6i
               type: folder
               title: Dropdown on URL bar for list of all projects
               expanded: true
               children: []
-            - key: EXyNPxFeoYVt-0Y6Jukfo
-              type: folder
-              title: Add acknowledgement message
-              expanded: true
-              children:
-                - key: Jd44jI3od7edXKMu4gmgn
-                  type: feature
-                  title: Acknowledgement Message
-                  expanded: true
-                  children: []
-            - key: IwjYEue6ac_pvRIPef_Xq
-              type: folder
-              title: Remove index.js re-export
-              expanded: true
-              children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: nm84WAacB3042NhJjNXVb
               type: folder
               title: Add sketch feature
@@ -456,6 +441,21 @@
                       title: Handle pen input
                       expanded: true
                       children: []
+            - key: EXyNPxFeoYVt-0Y6Jukfo
+              type: folder
+              title: Add acknowledgement message
+              expanded: true
+              children:
+                - key: Jd44jI3od7edXKMu4gmgn
+                  type: feature
+                  title: Acknowledgement Message
+                  expanded: true
+                  children: []
+            - key: IwjYEue6ac_pvRIPef_Xq
+              type: folder
+              title: Remove index.js re-export
+              expanded: true
+              children: []
             - key: 85pjGmm4RV0LbhFC4aEb-
               type: folder
               title: Create URL filter for proxy
