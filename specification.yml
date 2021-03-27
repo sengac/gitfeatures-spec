@@ -413,11 +413,6 @@
               title: Dropdown on URL bar for list of all projects
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: nm84WAacB3042NhJjNXVb
               type: folder
               title: Add sketch feature
@@ -425,22 +420,22 @@
               tags:
                 - type: text
                   name: 🤓 Roland Quast
-              children:
-                - key: qjVfDvd_ZJhhaJoXNbEsQ
-                  type: feature
-                  title: Sketch Component
-                  expanded: true
-                  children:
-                    - key: 6e71FMSs3oC_ZrhZkcCxE
-                      type: map
-                      title: Save and restore from markdown
-                      expanded: true
-                      children: []
-                    - key: Ao6fwNcyPaktN7mz0xj6S
-                      type: map
-                      title: Handle pen input
-                      expanded: true
-                      children: []
+              children: []
+            - key: T8MKsvucqQgM_7qnSAd1H
+              type: folder
+              title: Add README.md for launcher/public
+              expanded: true
+              children: []
+            - key: fosCZQe_L9j2XuzIS7KtD
+              type: folder
+              title: Use safe mode for content editor
+              expanded: true
+              children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: EXyNPxFeoYVt-0Y6Jukfo
               type: folder
               title: Add acknowledgement message
@@ -456,44 +451,14 @@
               title: Remove index.js re-export
               expanded: true
               children: []
-            - key: 85pjGmm4RV0LbhFC4aEb-
+            - key: SOlRYcA2NeMHxy-fwirlx
               type: folder
-              title: Create URL filter for proxy
-              expanded: true
-              children: []
-            - key: WpUGPuep3bnWZh9jeddUt
-              type: folder
-              title: Make public proxy
+              title: Make editor buttons scroll with window
               expanded: true
               children: []
             - key: vfzVTGmiivgaGBrHGSiJT
               type: folder
               title: Run prettier with right rules to reformat
-              expanded: true
-              children: []
-            - key: fosCZQe_L9j2XuzIS7KtD
-              type: folder
-              title: Use safe mode for content editor
-              expanded: true
-              children: []
-            - key: T8MKsvucqQgM_7qnSAd1H
-              type: folder
-              title: Add README.md for launcher/public
-              expanded: true
-              children: []
-            - key: B211Kjp3KOon9pOsX88_7
-              type: folder
-              title: Setup a proxy token system
-              expanded: true
-              children: []
-            - key: uN7ekP44XANwwC-_GncEj
-              type: folder
-              title: Git Pull
-              expanded: true
-              children: []
-            - key: VlOp9DNcnxIXlBTUro8sk
-              type: folder
-              title: "Responsive Layout: GitFeatures.com 📱"
               expanded: true
               children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
@@ -508,12 +473,7 @@
               children: []
             - key: 4mtbYr0Gr_S92hJp1Sdmu
               type: folder
-              title: Uncommited changes diff view
-              expanded: true
-              children: []
-            - key: ROMnGLh_SdHb02Q0m0vCI
-              type: folder
-              title: Record Videos
+              title: Basic uncommited changes diff view
               expanded: true
               children: []
             - key: vCzhveFxwqj9YEkfLCENw
@@ -521,9 +481,14 @@
               title: Example Map tutorial drawer
               expanded: true
               children: []
-            - key: SOlRYcA2NeMHxy-fwirlx
+            - key: ROMnGLh_SdHb02Q0m0vCI
               type: folder
-              title: Make editor buttons scroll with window
+              title: Record Videos
+              expanded: true
+              children: []
+            - key: VlOp9DNcnxIXlBTUro8sk
+              type: folder
+              title: "Responsive Layout: GitFeatures.com 📱"
               expanded: true
               children: []
         - key: jUq6qQFEXQunl9uTwKu0g
@@ -531,6 +496,26 @@
           title: Backlog
           expanded: true
           children:
+            - key: B211Kjp3KOon9pOsX88_7
+              type: folder
+              title: Setup a proxy token system
+              expanded: true
+              children: []
+            - key: WpUGPuep3bnWZh9jeddUt
+              type: folder
+              title: Make public proxy
+              expanded: true
+              children: []
+            - key: 85pjGmm4RV0LbhFC4aEb-
+              type: folder
+              title: Create URL filter for proxy
+              expanded: true
+              children: []
+            - key: uN7ekP44XANwwC-_GncEj
+              type: folder
+              title: Git Pull
+              expanded: true
+              children: []
             - key: vC0XC3P5BUF16Iddns_tx
               type: folder
               title: Status modal for long-running actions
