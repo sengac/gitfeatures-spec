@@ -436,21 +436,16 @@
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
+            - key: EXyNPxFeoYVt-0Y6Jukfo
+              type: folder
+              title: Add cors handler when not provided
+              expanded: true
+              children: []
             - key: -h8zsb6pJOQZeNFWiTdXW
               type: folder
               title: Add buttons for custom markdown types
               expanded: true
               children: []
-            - key: EXyNPxFeoYVt-0Y6Jukfo
-              type: folder
-              title: Add acknowledgement message
-              expanded: true
-              children:
-                - key: Jd44jI3od7edXKMu4gmgn
-                  type: feature
-                  title: Acknowledgement Message
-                  expanded: true
-                  children: []
             - key: 4mtbYr0Gr_S92hJp1Sdmu
               type: folder
               title: Basic uncommited changes diff view
