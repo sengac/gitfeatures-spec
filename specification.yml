@@ -446,14 +446,24 @@
                   title: Acknowledgement Message
                   expanded: true
                   children: []
-            - key: IwjYEue6ac_pvRIPef_Xq
+            - key: 4mtbYr0Gr_S92hJp1Sdmu
               type: folder
-              title: Remove index.js re-export
+              title: Basic uncommited changes diff view
+              expanded: true
+              children: []
+            - key: vCzhveFxwqj9YEkfLCENw
+              type: folder
+              title: Example Map tutorial drawer
               expanded: true
               children: []
             - key: SOlRYcA2NeMHxy-fwirlx
               type: folder
               title: Make editor buttons scroll with window
+              expanded: true
+              children: []
+            - key: IwjYEue6ac_pvRIPef_Xq
+              type: folder
+              title: Remove index.js re-export
               expanded: true
               children: []
             - key: vfzVTGmiivgaGBrHGSiJT
@@ -469,16 +479,6 @@
             - key: fXjrNx30bsL9qjPx_bNfZ
               type: folder
               title: Add first component tests retrospectively
-              expanded: true
-              children: []
-            - key: 4mtbYr0Gr_S92hJp1Sdmu
-              type: folder
-              title: Basic uncommited changes diff view
-              expanded: true
-              children: []
-            - key: vCzhveFxwqj9YEkfLCENw
-              type: folder
-              title: Example Map tutorial drawer
               expanded: true
               children: []
             - key: ROMnGLh_SdHb02Q0m0vCI
