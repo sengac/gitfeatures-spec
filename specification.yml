@@ -446,11 +446,6 @@
               title: Add buttons for custom markdown types
               expanded: true
               children: []
-            - key: 4mtbYr0Gr_S92hJp1Sdmu
-              type: folder
-              title: Basic uncommited changes diff view
-              expanded: true
-              children: []
             - key: vCzhveFxwqj9YEkfLCENw
               type: folder
               title: Example Map tutorial drawer
@@ -459,6 +454,11 @@
             - key: SOlRYcA2NeMHxy-fwirlx
               type: folder
               title: Make editor buttons scroll with window
+              expanded: true
+              children: []
+            - key: 4mtbYr0Gr_S92hJp1Sdmu
+              type: folder
+              title: Basic uncommited changes diff view
               expanded: true
               children: []
             - key: IwjYEue6ac_pvRIPef_Xq
