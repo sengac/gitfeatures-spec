@@ -441,6 +441,11 @@
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
+            - key: SOlRYcA2NeMHxy-fwirlx
+              type: folder
+              title: Make editor buttons scroll with window
+              expanded: true
+              children: []
             - key: -h8zsb6pJOQZeNFWiTdXW
               type: folder
               title: Add buttons for custom markdown types
@@ -449,11 +454,6 @@
             - key: vCzhveFxwqj9YEkfLCENw
               type: folder
               title: Example Map tutorial drawer
-              expanded: true
-              children: []
-            - key: SOlRYcA2NeMHxy-fwirlx
-              type: folder
-              title: Make editor buttons scroll with window
               expanded: true
               children: []
             - key: 4mtbYr0Gr_S92hJp1Sdmu
