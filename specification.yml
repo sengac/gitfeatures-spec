@@ -431,16 +431,16 @@
               title: Use safe mode for content editor
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: WpUGPuep3bnWZh9jeddUt
               type: folder
               title: Make public proxy
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: EXyNPxFeoYVt-0Y6Jukfo
               type: folder
               title: Add cors handler when not provided
