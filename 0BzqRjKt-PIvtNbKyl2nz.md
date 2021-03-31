@@ -6,14 +6,14 @@ The manifesto (in short):
 *Responding to change over following a plan*
 
 *That is, while there is value in the items on*
-*the right, we value the items on the left more.*
+*the **right**, we value the items on the **left** more.*
 
 ### Discussion
 
 The manifesto for agile software development is really a critique of the way many western organizations tend to write software and do business.
 
 - The things on the "right" in the manifesto is Taylorism. Taylorism ([Scientific Management](https://en.wikipedia.org/wiki/Scientific_management)) focuses on constraint, empirical measurement, risk management, predictability through repeatable process, (over) simplification, automation, rigid abstractions and the betterment of the processes in an organization. Though Taylorism often crushes the individual, it also aids with harmony, control and sometimes efficiency. In the extreme, this line of thought leads to structured heirachies, centralization, [planned economies](https://en.wikipedia.org/wiki/Planned_economy) and authoritarian **Order**.
-- The things on the "left" in the manifesto is [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)). Flow focuses on freedom, communication, vision, creativity, craftsmanship, agility and betterment of the individual to help the collective. It understands that humans create abstractions that are too general and often get in the way of people doing the right things or thinking for themselves. Flow aids leadership and innovation by unblocking obstacles. In the extreme, this line of thought leads to flat heirachies, decentralization, [spontaneous order](https://en.wikipedia.org/wiki/Spontaneous_order) and anarchistic **Chaos**.
+- The things on the "left" in the manifesto is [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)). Flow focuses on freedom, communication, vision, creativity, craftsmanship, agility and betterment of the individual that in turn helps the collective. It understands that humans create abstractions that are too general and often get in the way of people doing the right things or thinking for themselves. Flow aids leadership and innovation by unblocking obstacles. In the extreme, this line of thought leads to flat heirachies, decentralization, [spontaneous order](https://en.wikipedia.org/wiki/Spontaneous_order) and anarchistic **Chaos**.
 
 The manifesto states that while the things on the right matter, we should value the things on the left more. The manifesto is a statement of common sense. If the people aren't happy because there's too much management and not enough vision, innovation and leadership, the organization will likely fail. It also says that it needs both things to work - but balance is hard to achieve when management only knows or cares about Taylorism and feeding its own beast.
 
