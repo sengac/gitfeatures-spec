@@ -188,14 +188,14 @@
                   title: "Small Teams: Working & Communicating Effectively"
                   expanded: true
                   children: []
-                - key: iENm7Q-sWezDegJBNXTNq
-                  type: folder
-                  title: Wu Wei
-                  expanded: true
-                  children: []
                 - key: rj0OL4zx8pRyFgN0E5oZO
                   type: folder
                   title: Taylorism
+                  expanded: true
+                  children: []
+                - key: iENm7Q-sWezDegJBNXTNq
+                  type: folder
+                  title: Wu Wei
                   expanded: true
                   children: []
                 - key: 0BzqRjKt-PIvtNbKyl2nz
