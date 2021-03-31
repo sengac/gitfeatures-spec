@@ -1,0 +1,1 @@
+Not sure what this is caused from... also make sure the editor box expands to the full container size for new editors.

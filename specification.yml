@@ -461,6 +461,11 @@
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
+            - key: u3dZduOh9dKqtIT71520j
+              type: folder
+              title: Broken cursor in light mode
+              expanded: true
+              children: []
             - key: 4mtbYr0Gr_S92hJp1Sdmu
               type: folder
               title: Basic uncommited changes diff view
