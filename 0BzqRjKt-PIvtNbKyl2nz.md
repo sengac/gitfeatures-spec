@@ -25,6 +25,6 @@ More interestingly, the manifesto for agile software development owes its roots 
 
 "The Taoist is the kind of person that shows you the shortcut, and shows you how to do it by intelligence rather than effort. Taoism in that sense is what everyone is looking for, the easy way in - the shortcut, using cleverness instead of muscle."
 
-Wu Wei is the wise individual empowered with the freedom to use intelligence, Taylorism (Scientific Management) is about forcing order and harmony so things don't fall apart - "That is, while there is value in the items on the right, we value the items on the left more."
+The "left" is the wise individual empowered with the freedom and responsibility to communicate and use intelligence. The "right" is the collective being forced into order and harmony so things don't fall apart - "That is, while there is value in the items on the right, we value the items on the left more."
 
 **If you choose to develop in an agile way, you must know and use intelligent shortcuts and this is what GitFeatures intends to help you with.**
