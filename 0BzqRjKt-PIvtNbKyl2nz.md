@@ -19,12 +19,12 @@ The manifesto is just stating something that's common sense. The things on the r
 
 Of the popular agile frameworks, Scrum seems to have applied ideas of the way armies operate to its process. Army-like practices such as the scrum master, sprints, swarming, goal setting, and burndowns through estimation, help give commanding officers the warm and fuzzies while keeping the grunts focused. At the ground level, the team needs to make their own decisions so they don't get killed in action, but the whole operation must be managed in a risk managed, logistical and strategic way.
 
-Alternatively, Lean (using Kanban and Lean principles) draws more on inspiration from Zen Buddhism (influenced in this area by Taoism) reflecting the [TPS process pioneered by Toyota](https://en.wikipedia.org/wiki/Toyota_Production_System). In this way, it is closer to Wu Wei than Scrum. You may want to ask yourself when choosing between the two - are your team master ninjas or unthinking grunts that may need micromanaging with daily standups, sprint reviews and burndowns?
+Alternatively, Lean (using Kanban and Lean principles) draws more on inspiration from Zen Buddhism (influenced in this area by Taoism) reflecting the [TPS process pioneered by Toyota](https://en.wikipedia.org/wiki/Toyota_Production_System). In this way, it is closer to Wu Wei than Scrum. You may want to ask yourself when choosing between the two - are your team wise master ninjas or unthinking grunts that may need micromanaging with daily standups, sprint reviews and burndowns?
 
 More interestingly, the manifesto for agile software development owes its roots to Taoism (via Zen Buddhism) thanks to [Ikujiro Nonaka](https://en.wikipedia.org/wiki/Ikujiro_Nonaka) and [Hirotaka Takeuchi](https://en.wikipedia.org/wiki/Hirotaka_Takeuchi#The_New_New_Product_Development_Game). [Alan Watts once said](https://alanwatts.org/1-2-10-taoist-way-pt-2/):
 
 "The Taoist is the kind of person that shows you the shortcut, and shows you how to do it by intelligence rather than effort. Taoism in that sense is what everyone is looking for, the easy way in - the shortcut, using cleverness instead of muscle."
 
-Taoism is about the individual and the freedom to use intelligence, Confucianism (like Scientific Management) is about keeping order and harmony so things don't fall apart - "That is, while there is value in the items on the right, we value the items on the left more."
+Wu Wei is the wise individual empowered with the freedom to use intelligence, Taylorism (Scientific Management) is about forcing order and harmony so things don't fall apart - "That is, while there is value in the items on the right, we value the items on the left more."
 
 **If you choose to develop in an agile way, you must know and use intelligent shortcuts and this is what GitFeatures intends to help you with.**
