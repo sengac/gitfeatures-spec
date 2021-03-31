@@ -25,6 +25,6 @@ More interestingly, the manifesto for agile software development owes its roots 
 
 "The Taoist is the kind of person that shows you the shortcut, and shows you how to do it by intelligence rather than effort. Taoism in that sense is what everyone is looking for, the easy way in - the shortcut, using cleverness instead of muscle."
 
-Taoism is about the individual and the freedom to use intelligence, Confucianism (like Scientific Management) is about keeping order and harmony so things don't fall apart.
+Taoism is about the individual and the freedom to use intelligence, Confucianism (like Scientific Management) is about keeping order and harmony so things don't fall apart - "That is, while there is value in the items on the right, we value the items on the left more."
 
 **If you choose to develop in an agile way, you must know and use intelligent shortcuts and this is what GitFeatures intends to help you with.**
