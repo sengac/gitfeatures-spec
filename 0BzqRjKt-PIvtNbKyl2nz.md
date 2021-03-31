@@ -21,7 +21,7 @@ Of the popular agile frameworks, Scrum seems to have applied ideas of the way ar
 
 Alternatively, Lean (using Kanban and Lean principles) draws more on inspiration from Zen Buddhism (influenced in this area by Taoism) reflecting the [TPS process pioneered by Toyota](https://en.wikipedia.org/wiki/Toyota_Production_System). In this way, it is closer to flow than Scrum. You may want to ask yourself when choosing between the two - are your team master ninjas or unthinking grunts that may need micromanaging with daily standups, sprint reviews and burndowns?
 
-More interestingly, the manifesto for agile software development owes its roots to Taoism thanks to [Hirotaka Takeuchi](https://en.wikipedia.org/wiki/Hirotaka_Takeuchi#The_New_New_Product_Development_Game). [Alan Watts once said](https://alanwatts.org/1-2-10-taoist-way-pt-2/):
+More interestingly, the manifesto for agile software development owes its roots to Taoism (via Zen Buddhism) thanks to [Ikujiro Nonaka](https://en.wikipedia.org/wiki/Ikujiro_Nonaka) and [Hirotaka Takeuchi](https://en.wikipedia.org/wiki/Hirotaka_Takeuchi#The_New_New_Product_Development_Game). [Alan Watts once said](https://alanwatts.org/1-2-10-taoist-way-pt-2/):
 
 "The Taoist is the kind of person that shows you the shortcut, and shows you how to do it by intelligence rather than effort. Taoism in that sense is what everyone is looking for, the easy way in - the shortcut, using cleverness instead of muscle."
 
