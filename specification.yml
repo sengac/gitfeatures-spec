@@ -456,6 +456,11 @@
               title: Check if floats fix drawing
               expanded: true
               children: []
+            - key: IwjYEue6ac_pvRIPef_Xq
+              type: folder
+              title: Remove index.js re-export
+              expanded: true
+              children: []
         - key: 9aNFE9-MCUeyXGZiz2ucf
           type: folder
           title: "In Progress: Release MVP alpha by 2 April 🚀"
@@ -479,11 +484,6 @@
             - key: 4mtbYr0Gr_S92hJp1Sdmu
               type: folder
               title: Basic uncommited changes diff view
-              expanded: true
-              children: []
-            - key: IwjYEue6ac_pvRIPef_Xq
-              type: folder
-              title: Remove index.js re-export
               expanded: true
               children: []
             - key: vfzVTGmiivgaGBrHGSiJT
