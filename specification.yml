@@ -461,6 +461,16 @@
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
+            - key: AXgSzdg-ueKTOGjSjAL5q
+              type: folder
+              title: Persist undo/redo to session storage
+              expanded: true
+              children: []
+            - key: -igoktT4dDoZ_r5xmEl4f
+              type: folder
+              title: Reload undo/redo after switching repos
+              expanded: true
+              children: []
             - key: u3dZduOh9dKqtIT71520j
               type: folder
               title: Broken cursor in light mode
