@@ -461,16 +461,6 @@
               title: Remove index.js re-export
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
-            - key: AXgSzdg-ueKTOGjSjAL5q
-              type: folder
-              title: Persist undo/redo to session storage
-              expanded: true
-              children: []
             - key: -igoktT4dDoZ_r5xmEl4f
               type: folder
               title: Reload undo/redo after switching repos
@@ -481,14 +471,19 @@
               title: Broken cursor in light mode
               expanded: true
               children: []
-            - key: 4mtbYr0Gr_S92hJp1Sdmu
-              type: folder
-              title: Basic uncommited changes diff view
-              expanded: true
-              children: []
             - key: vfzVTGmiivgaGBrHGSiJT
               type: folder
               title: Run prettier with right rules to reformat
+              expanded: true
+              children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
+            - key: 4mtbYr0Gr_S92hJp1Sdmu
+              type: folder
+              title: Basic uncommited changes diff view
               expanded: true
               children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
