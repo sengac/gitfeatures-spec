@@ -1,0 +1,1 @@
+If you move a map to something like the root or a folder it will break when it looks for acceptance criteria (feature nodes)
