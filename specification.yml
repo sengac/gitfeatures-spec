@@ -481,14 +481,14 @@
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
-            - key: 4mtbYr0Gr_S92hJp1Sdmu
-              type: folder
-              title: Basic uncommited changes diff view
-              expanded: true
-              children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder
               title: Fix TypeScript types
+              expanded: true
+              children: []
+            - key: 4mtbYr0Gr_S92hJp1Sdmu
+              type: folder
+              title: Basic uncommited changes diff view
               expanded: true
               children: []
             - key: fXjrNx30bsL9qjPx_bNfZ
