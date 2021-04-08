@@ -1,0 +1,3 @@
+- can't rename a node
+- can't rollback
+- other weirdness... needs full investigation and cleaning.

@@ -498,9 +498,14 @@
               children: []
         - key: 9aNFE9-MCUeyXGZiz2ucf
           type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          title: "In Progress: Release MVP alpha by 16 April 🚀"
           expanded: true
           children:
+            - key: o8bMAFXTDTlNHcU7HseFL
+              type: folder
+              title: New project issues
+              expanded: true
+              children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder
               title: Fix TypeScript types
