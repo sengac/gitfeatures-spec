@@ -476,6 +476,11 @@
               title: Run prettier with right rules to reformat
               expanded: true
               children: []
+            - key: 566j7N3SIWGyC3ZKIBE46
+              type: folder
+              title: Add config stub to AppState
+              expanded: true
+              children: []
         - key: 9aNFE9-MCUeyXGZiz2ucf
           type: folder
           title: "In Progress: Release MVP alpha by 2 April 🚀"
@@ -484,11 +489,6 @@
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder
               title: Fix TypeScript types
-              expanded: true
-              children: []
-            - key: 566j7N3SIWGyC3ZKIBE46
-              type: folder
-              title: Add config stub to AppState
               expanded: true
               children: []
             - key: jcaCgmKxmzh4pfJwHE6NU
