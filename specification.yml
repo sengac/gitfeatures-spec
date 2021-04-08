@@ -491,16 +491,16 @@
               title: Expand textarea to full container size of editor
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 2 April 🚀"
-          expanded: true
-          children:
             - key: kHQVaVXST78VDETDpdRHq
               type: folder
               title: Prevent asking to save password
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 2 April 🚀"
+          expanded: true
+          children:
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder
               title: Fix TypeScript types
