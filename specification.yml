@@ -486,11 +486,6 @@
           title: "In Progress: Release MVP alpha by 2 April 🚀"
           expanded: true
           children:
-            - key: fXxDUdi7AWF0Ao9k7O8Jz
-              type: folder
-              title: Fix TypeScript types
-              expanded: true
-              children: []
             - key: jcaCgmKxmzh4pfJwHE6NU
               type: folder
               title: Fix map without feature parent bug
@@ -499,6 +494,11 @@
             - key: WwLcIa-IhGxJPJ-g683kr
               type: folder
               title: Expand textarea to full container size of editor
+              expanded: true
+              children: []
+            - key: fXxDUdi7AWF0Ao9k7O8Jz
+              type: folder
+              title: Fix TypeScript types
               expanded: true
               children: []
             - key: 4mtbYr0Gr_S92hJp1Sdmu
