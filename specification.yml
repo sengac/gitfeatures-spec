@@ -506,6 +506,11 @@
               title: Fix TypeScript types
               expanded: true
               children: []
+            - key: WfDaD_GTO8hKyEm-DmXUq
+              type: folder
+              title: Highlight changed nodes maybe?
+              expanded: true
+              children: []
             - key: 4mtbYr0Gr_S92hJp1Sdmu
               type: folder
               title: Basic uncommited changes diff view
