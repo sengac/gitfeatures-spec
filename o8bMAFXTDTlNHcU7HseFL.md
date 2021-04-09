@@ -1,1 +1,2 @@
 - can't rollback - shouldn't be able to if nothing has been committed yet!
+- make sure everything else is okay.
