@@ -5,3 +5,5 @@ Learning how and when to plan, and what may require example maps can be helped b
 - a bit of an idea... use example mapping and prototyping
 - complex... 
 - clear... bang out something using patterns and best practices
+
+great talk: [https://www.youtube.com/watch?v=G2X_7ojZwtU](https://www.youtube.com/watch?v=G2X_7ojZwtU)
