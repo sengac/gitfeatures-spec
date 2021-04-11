@@ -24,4 +24,4 @@ The things on the left (Chaos, Complex) are more important than the things on th
 
 Risk is where the value is - otherwise it's just a commodity.
 
-Also - apply the complex domain to reflexivity - [https://www.youtube.com/watch?v=zX1nm6PoI-g](https://www.youtube.com/watch?v=zX1nm6PoI-g) - how can reflexivity influence the success of the feature?
+Also - apply the complex domain to reflexivity - [https://www.youtube.com/watch?v=zX1nm6PoI-g](https://www.youtube.com/watch?v=zX1nm6PoI-g) - how can reflexivity influence the success of the feature? Are positive feedback loops more important for the success of a feature rather than a negative one?
