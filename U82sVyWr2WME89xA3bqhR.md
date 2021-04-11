@@ -17,3 +17,5 @@ great talk: [https://www.youtube.com/watch?v=G2X_7ojZwtU](https://www.youtube.co
 - code
 
 ... only works in the complicated domain, not the complex (you need example mapping and discovery for that).
+
+... video talks about "creating options" when you move out of the complex space. Options help deliver things faster and better.
