@@ -15,3 +15,5 @@ great talk: [https://www.youtube.com/watch?v=G2X_7ojZwtU](https://www.youtube.co
 - story
 - scenario
 - code
+
+... only works in the complicated domain, not the complex (you need example mapping and discovery for that).
