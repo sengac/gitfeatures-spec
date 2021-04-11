@@ -7,3 +7,11 @@ Learning how and when to plan, and what may require example maps can be helped b
 - clear... bang out something using patterns and best practices
 
 great talk: [https://www.youtube.com/watch?v=G2X_7ojZwtU](https://www.youtube.com/watch?v=G2X_7ojZwtU)
+
+- vision
+- goal
+- capability (backlog item - starts with a verb)
+- feature
+- story
+- scenario
+- code
