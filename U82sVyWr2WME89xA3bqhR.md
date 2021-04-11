@@ -21,3 +21,5 @@ great talk: [https://www.youtube.com/watch?v=G2X_7ojZwtU](https://www.youtube.co
 ... video talks about "creating options" when you move out of the complex space. Options help deliver things faster and better.
 
 The things on the left (Chaos, Complex) are more important than the things on the right (Complicated, Clear). The things on the left require good people - the things on the right require good process.
+
+Risk is where the value is - otherwise it's just a commodity.
