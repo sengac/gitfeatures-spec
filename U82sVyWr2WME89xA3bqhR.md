@@ -2,8 +2,8 @@ Learning how and when to plan, and what may require example maps can be helped b
 
 - estimate complexity - chaotic, complex, complicated, clear
 - no idea where to start? - chaotic... just take action
-- a bit of an idea... use example mapping and prototyping
-- complex... 
+- a bit of an idea... complex, use example mapping and prototyping
+- complicated... standard backlog item, feature, story, scenario, code
 - clear... bang out something using patterns and best practices
 
 great talk: [https://www.youtube.com/watch?v=G2X_7ojZwtU](https://www.youtube.com/watch?v=G2X_7ojZwtU)
