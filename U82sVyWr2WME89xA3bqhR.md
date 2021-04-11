@@ -1,0 +1,1 @@
+Learning how and when to plan, and what may require example maps can be helped by using something like the Cynefin framework.
