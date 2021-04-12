@@ -3,16 +3,61 @@
   title: Add your first story here ...
   expanded: true
   children:
+    - key: uXrqx8_hmhxET6ljd4E_X
+      type: rule
+      title: Must be prompted to make a choice
+      expanded: true
+      children:
+        - key: 8yc2_kF3OnFu9Bsnq_5tT
+          type: example
+          title: Button to choose clone
+          expanded: true
+          children: []
+        - key: _veNuiflXOT4JBskP1ptN
+          type: example
+          title: Button to choose new (initialize)
+          expanded: true
+          children: []
+    - key: cPYRq__VJsSvPpTRGXdw4
+      type: rule
+      title: Must be told what new does
+      expanded: true
+      children:
+        - key: 1Rcs6_NsCQMEDT7wz5uOo
+          type: example
+          title: Explanation of what new does
+          expanded: true
+          children: []
+    - key: T2QXZ7zuvgInFd0CcSAR3
+      type: rule
+      title: Must be told what clone does
+      expanded: true
+      children:
+        - key: yiqWh7mEkYlcEJcojTNCr
+          type: example
+          title: Explanation of what clone does
+          expanded: true
+          children: []
     - key: 0BBJp8pkZewUbziviFiFn
       type: rule
       title: Must initialize a project if not cloned
       expanded: true
-      children: []
+      children:
+        - key: dM2qkxcukJGWXiMQcJMcF
+          type: example
+          title: Choice of clone or new
+          expanded: true
+          children: []
     - key: qT__nXNkcjnmR1CzlieZx
       type: rule
       title: Must have a URL to clone or initialize with
       expanded: true
-      children: []
+      children:
+        - key: YtyWMryOKTyScogESC7_r
+          type: example
+          title: Display input area for URL
+          expanded: true
+          children: []
     - key: Vr-HhYFVEN71NEzqv1yl8
       type: rule
       title: Must know the branch to use
@@ -26,5 +71,20 @@
         - key: nEiulfuSbpTRd-Tg8Z8Sg
           type: example
           title: Sad Path - Clone a repository with a main branch instead of master
+          expanded: true
+          children: []
+    - key: H_9VFt8gNSyemKneXfUmi
+      type: rule
+      title: Must not be able to cancel dialog
+      expanded: true
+      children:
+        - key: IpjfARmENPnzgBj7M38vE
+          type: example
+          title: Cross at top of screen disabled
+          expanded: true
+          children: []
+        - key: qu4hVsCYxXYhIAQ-Yg5IS
+          type: example
+          title: Esc key disabled
           expanded: true
           children: []
