@@ -1,0 +1,1 @@
+When loading a URL for the first time - if it is not in the browser, ask the user to clone or create a new one.

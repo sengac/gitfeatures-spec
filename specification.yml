@@ -510,7 +510,17 @@
               type: folder
               title: New project issues
               expanded: true
-              children: []
+              children:
+                - key: 3ASazgenQdU9a8jp2cC9S
+                  type: feature
+                  title: New Project
+                  expanded: true
+                  children:
+                    - key: I8jS8GosX7NJLaS-eXOfC
+                      type: map
+                      title: New Project Discovery
+                      expanded: true
+                      children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder
               title: Fix TypeScript types
@@ -549,6 +559,11 @@
             - key: ltlK20ZE78r6W0dRie8lf
               type: folder
               title: Internal linking
+              expanded: true
+              children: []
+            - key: Ohy3vmn2A8VQuGOYyZJA0
+              type: folder
+              title: Gherkin syntax generation/parsing/buttons
               expanded: true
               children: []
             - key: B211Kjp3KOon9pOsX88_7
