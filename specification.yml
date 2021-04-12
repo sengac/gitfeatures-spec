@@ -511,14 +511,14 @@
               title: New project issues
               expanded: true
               children:
-                - key: 3ASazgenQdU9a8jp2cC9S
+                - key: repo-url-changed
                   type: feature
-                  title: New Project
+                  title: Repo URL Changed
                   expanded: true
                   children:
-                    - key: _NsL80uZ_ucpEvmdZ-KCV
+                    - key: repo-url-changed-discovery-1
                       type: map
-                      title: New Project Discovery
+                      title: Repo URL Changed Discovery
                       expanded: true
                       children: []
             - key: G7-MXf9ZmK_joi39_tzxI
