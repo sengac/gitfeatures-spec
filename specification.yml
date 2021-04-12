@@ -521,6 +521,11 @@
                       title: New Project Discovery
                       expanded: true
                       children: []
+            - key: G7-MXf9ZmK_joi39_tzxI
+              type: folder
+              title: 🐞 Focus lost on commit
+              expanded: true
+              children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder
               title: Fix TypeScript types
