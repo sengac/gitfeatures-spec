@@ -3,6 +3,16 @@
   title: Add your first story here ...
   expanded: true
   children:
+    - key: qT__nXNkcjnmR1CzlieZx
+      type: rule
+      title: Must have a URL to clone or initialize with
+      expanded: true
+      children:
+        - key: YtyWMryOKTyScogESC7_r
+          type: example
+          title: Display input area for URL
+          expanded: true
+          children: []
     - key: a1V_k4F8Ays2DfVczo9mK
       type: rule
       title: Must have ability to choose Git credentials
@@ -71,16 +81,6 @@
         - key: dM2qkxcukJGWXiMQcJMcF
           type: example
           title: Choice of clone or new
-          expanded: true
-          children: []
-    - key: qT__nXNkcjnmR1CzlieZx
-      type: rule
-      title: Must have a URL to clone or initialize with
-      expanded: true
-      children:
-        - key: YtyWMryOKTyScogESC7_r
-          type: example
-          title: Display input area for URL
           expanded: true
           children: []
     - key: Vr-HhYFVEN71NEzqv1yl8
