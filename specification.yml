@@ -521,11 +521,6 @@
                       title: New Project Discovery
                       expanded: true
                       children: []
-                    - key: 4HR5We0elEkQ2e1vOQG_8
-                      type: map
-                      title: another map
-                      expanded: true
-                      children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder
               title: Fix TypeScript types
