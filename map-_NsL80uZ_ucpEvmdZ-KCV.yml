@@ -2,3 +2,29 @@
   type: story
   title: Add your first story here ...
   expanded: true
+  children:
+    - key: 0BBJp8pkZewUbziviFiFn
+      type: rule
+      title: Must initialize a project if not cloned
+      expanded: true
+      children: []
+    - key: qT__nXNkcjnmR1CzlieZx
+      type: rule
+      title: Must have a URL to clone or initialize with
+      expanded: true
+      children: []
+    - key: Vr-HhYFVEN71NEzqv1yl8
+      type: rule
+      title: Must know the branch to use
+      expanded: true
+      children:
+        - key: lj04Zf4R1_mh8SvNbjoA5
+          type: example
+          title: Happy Path - Clone a repository with a master branch
+          expanded: true
+          children: []
+        - key: nEiulfuSbpTRd-Tg8Z8Sg
+          type: example
+          title: Sad Path - Clone a repository with a main branch instead of master
+          expanded: true
+          children: []
