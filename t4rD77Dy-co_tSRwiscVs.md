@@ -9,8 +9,11 @@
 
 ```mermaid
 graph TD
-    A(Current Repo URL changed) -->|Load from Browser State| B{Repo URL in browser?}
+    A(Current Repo URL changed) -->|Load from Browser State| B{Repo in browser?}
     B -->|Yes| D(Render)
     B -->|No| E[Show Init/Clone Modal]
+    E[Show Clone/Init Modal] --> F{Clone or Init?}
+    F -->|Clone| G[Do Clone]
+    F -->|Init| H[Do Init]
 ```
 

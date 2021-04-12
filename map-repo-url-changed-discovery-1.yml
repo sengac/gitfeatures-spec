@@ -1,6 +1,6 @@
 - key: t4rD77Dy-co_tSRwiscVs
   type: story
-  title: Clone an existing project
+  title: Show a Clone/Init Modal
   expanded: true
   children:
     - key: qT__nXNkcjnmR1CzlieZx
@@ -115,6 +115,11 @@
           children: []
 - key: No-HLK27VIXApL_VNw3dg
   type: story
-  title: Initialize a new project
+  title: Perform Initialize
+  expanded: true
+  children: []
+- key: P8jy2UWwLevbjjC7zc4DS
+  type: story
+  title: Perform Clone
   expanded: true
   children: []
