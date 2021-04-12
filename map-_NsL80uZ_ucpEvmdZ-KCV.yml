@@ -1,6 +1,6 @@
 - key: t4rD77Dy-co_tSRwiscVs
   type: story
-  title: Add your first story here ...
+  title: Clone an existing project
   expanded: true
   children:
     - key: qT__nXNkcjnmR1CzlieZx
@@ -113,3 +113,8 @@
           title: Esc key disabled
           expanded: true
           children: []
+- key: No-HLK27VIXApL_VNw3dg
+  type: story
+  title: Initialize a new project
+  expanded: true
+  children: []
