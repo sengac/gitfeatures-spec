@@ -501,11 +501,26 @@
               title: Prevent asking to save password
               expanded: true
               children: []
+            - key: G7-MXf9ZmK_joi39_tzxI
+              type: folder
+              title: 🐞 Focus lost on commit
+              expanded: true
+              children: []
         - key: 9aNFE9-MCUeyXGZiz2ucf
           type: folder
           title: "In Progress: Release MVP alpha by 16 April 🚀"
           expanded: true
           children:
+            - key: NbpW6z5Y9av8pq_lxKd42
+              type: folder
+              title: 🐞 Clear selectedIndex and selectedNodeKey on reload?
+              expanded: true
+              children: []
+            - key: 3uwsQnPhjvI1z0AmmL0Ou
+              type: folder
+              title: 🐞 Fix _ and - starting nanoids
+              expanded: true
+              children: []
             - key: o8bMAFXTDTlNHcU7HseFL
               type: folder
               title: New project issues
@@ -521,11 +536,6 @@
                       title: Repo URL Changed Discovery
                       expanded: true
                       children: []
-            - key: G7-MXf9ZmK_joi39_tzxI
-              type: folder
-              title: 🐞 Focus lost on commit
-              expanded: true
-              children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder
               title: Fix TypeScript types
