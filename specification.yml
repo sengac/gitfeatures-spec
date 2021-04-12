@@ -516,7 +516,7 @@
                   title: New Project
                   expanded: true
                   children:
-                    - key: I8jS8GosX7NJLaS-eXOfC
+                    - key: new-project-discovery
                       type: map
                       title: New Project Discovery
                       expanded: true
