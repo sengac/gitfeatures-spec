@@ -515,12 +515,7 @@
                   type: feature
                   title: New Project
                   expanded: true
-                  children:
-                    - key: new-project-discovery
-                      type: map
-                      title: New Project Discovery
-                      expanded: true
-                      children: []
+                  children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder
               title: Fix TypeScript types
