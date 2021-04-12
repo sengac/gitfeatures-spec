@@ -526,6 +526,11 @@
                       title: adding another map
                       expanded: true
                       children: []
+                    - key: mFAod2pwepDi2gHo9E4xB
+                      type: map
+                      title: and another map
+                      expanded: true
+                      children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder
               title: Fix TypeScript types
