@@ -3,6 +3,31 @@
   title: Add your first story here ...
   expanded: true
   children:
+    - key: a1V_k4F8Ays2DfVczo9mK
+      type: rule
+      title: Must have ability to choose Git credentials
+      expanded: true
+      children:
+        - key: Loqs1OkUkvWSK-KPDWWab
+          type: example
+          title: Dropdown list with Default selected
+          expanded: true
+          children: []
+    - key: -c7-ngMAZOwjXFZuFCpsN
+      type: rule
+      title: Must have ability to edit credentials
+      expanded: true
+      children:
+        - key: uV9GAuX2YDAcTgEADGhOY
+          type: example
+          title: Button to edit
+          expanded: true
+          children: []
+        - key: c25rmcbTQYgX78EaDrnyq
+          type: example
+          title: slide pannel to add basic info
+          expanded: true
+          children: []
     - key: uXrqx8_hmhxET6ljd4E_X
       type: rule
       title: Must be prompted to make a choice
@@ -80,7 +105,7 @@
       children:
         - key: IpjfARmENPnzgBj7M38vE
           type: example
-          title: Cross at top of screen disabled
+          title: No cross at top of screen
           expanded: true
           children: []
         - key: qu4hVsCYxXYhIAQ-Yg5IS
