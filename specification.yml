@@ -521,6 +521,11 @@
               title: 🐞 Fix _ and - starting nanoids
               expanded: true
               children: []
+            - key: 3CrDUV6jTc2lRYIgj-HZ-
+              type: folder
+              title: Fix CSS for mermaid
+              expanded: true
+              children: []
             - key: o8bMAFXTDTlNHcU7HseFL
               type: folder
               title: New project issues
