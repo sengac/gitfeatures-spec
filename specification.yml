@@ -511,6 +511,11 @@
               title: 🐞 Clear selectedIndex and selectedNodeKey on reload?
               expanded: true
               children: []
+            - key: 3uwsQnPhjvI1z0AmmL0Ou
+              type: folder
+              title: 🐞 Fix _ and - starting nanoids
+              expanded: true
+              children: []
         - key: 9aNFE9-MCUeyXGZiz2ucf
           type: folder
           title: "In Progress: Release MVP alpha by 16 April 🚀"
@@ -519,11 +524,6 @@
             - key: 3CrDUV6jTc2lRYIgj-HZ-
               type: folder
               title: Fix CSS for mermaid
-              expanded: true
-              children: []
-            - key: 3uwsQnPhjvI1z0AmmL0Ou
-              type: folder
-              title: 🐞 Fix _ and - starting nanoids
               expanded: true
               children: []
             - key: o8bMAFXTDTlNHcU7HseFL
