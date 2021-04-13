@@ -506,16 +506,16 @@
               title: 🐞 Focus lost on commit
               expanded: true
               children: []
-        - key: 9aNFE9-MCUeyXGZiz2ucf
-          type: folder
-          title: "In Progress: Release MVP alpha by 16 April 🚀"
-          expanded: true
-          children:
             - key: NbpW6z5Y9av8pq_lxKd42
               type: folder
               title: 🐞 Clear selectedIndex and selectedNodeKey on reload?
               expanded: true
               children: []
+        - key: 9aNFE9-MCUeyXGZiz2ucf
+          type: folder
+          title: "In Progress: Release MVP alpha by 16 April 🚀"
+          expanded: true
+          children:
             - key: 3uwsQnPhjvI1z0AmmL0Ou
               type: folder
               title: 🐞 Fix _ and - starting nanoids
