@@ -546,6 +546,11 @@
               title: Fix TypeScript types
               expanded: true
               children: []
+            - key: H4qSrPzkmdG8iTu36Xz5N
+              type: folder
+              title: Add typing to draw tool
+              expanded: true
+              children: []
             - key: WfDaD_GTO8hKyEm-DmXUq
               type: folder
               title: Highlight changed nodes maybe?
