@@ -132,7 +132,17 @@
   type: story
   title: Perform Initialize
   expanded: true
-  children: []
+  children:
+    - key: OQBjKbSXKfEOFiJK2nZPR
+      type: rule
+      title: Must not show "rollback" if a new project
+      expanded: true
+      children:
+        - key: NDnA5iu55QhmCEN8gT3oG
+          type: example
+          title: Rollback appears before first commit after change
+          expanded: true
+          children: []
 - key: P8jy2UWwLevbjjC7zc4DS
   type: story
   title: Perform Clone
