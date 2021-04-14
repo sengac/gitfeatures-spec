@@ -13,6 +13,31 @@
       title: Must show a template stub if not in localStorage
       expanded: true
       children: []
+    - key: uVf8_lEy46s0FabdrXWZe
+      type: rule
+      title: Must elegantly handle render/deserialize failures
+      expanded: true
+      children:
+        - key: 3N53l_h0dWYwTtmHjFb-4
+          type: example
+          title: Deserialize doesn't work - JSON error
+          expanded: true
+          children: []
+        - key: 5Ewz7UyFP81OWhTSjF_KA
+          type: example
+          title: Render doesn't work - doc structure error
+          expanded: true
+          children: []
+    - key: aamgFalsZ_-97aTB0PN4B
+      type: rule
+      title: Must render template stub if not in localStorage
+      expanded: true
+      children:
+        - key: ZVyZ2GJgX7xDrroIDb2dn
+          type: example
+          title: URL that hasn't been cloned
+          expanded: true
+          children: []
 - key: t4rD77Dy-co_tSRwiscVs
   type: story
   title: Show a Clone/Init Modal
