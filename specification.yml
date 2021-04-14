@@ -540,6 +540,9 @@
                       type: map
                       title: Clone / Init - Discovery
                       expanded: true
+                      tags:
+                        - type: text
+                          name: 🚀 MVP
                       children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
               type: folder

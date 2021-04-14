@@ -3,16 +3,16 @@
   title: Change a repo URL to clone or create
   expanded: true
   children:
-    - key: xwUpai6FUGnvJXbuxPfOX
-      type: rule
-      title: Must show a template stub if errored
-      expanded: true
-      children: []
     - key: jU66VUKVLpSrXO28z6SRV
       type: rule
       title: Must show a template stub if not in localStorage
       expanded: true
-      children: []
+      children:
+        - key: 1UG5dI4N1kbvd9wyXtcZt
+          type: example
+          title: Valid URL given that hasn't been cloned/init'd
+          expanded: true
+          children: []
     - key: uVf8_lEy46s0FabdrXWZe
       type: rule
       title: Must elegantly handle render/deserialize failures
