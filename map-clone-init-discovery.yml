@@ -43,6 +43,11 @@
       title: Must validate the URL before doing anything
       expanded: true
       children:
+        - key: 0AjmVrmGMDZeTw3MnptNj
+          type: question
+          title: What is the regex for this?
+          expanded: true
+          children: []
         - key: 2Bomo244BUW0D4XDmgd9U
           type: example
           title: 😥 URL is pttp://myfakeurl.com/fakeproject.git
@@ -51,6 +56,16 @@
         - key: cAjP-3YA3O4f8qKJsBNYP
           type: example
           title: 😃 URL is https://github.com/sengac/gitfeatures-spec.git
+          expanded: true
+          children: []
+    - key: F-eqMUoHPChFJePwQait9
+      type: rule
+      title: View Clone/init modal after stub rendered when not found
+      expanded: true
+      children:
+        - key: X_vnsohHjI-f3AQLoiJB3
+          type: example
+          title: Valid URL given that hasn't been cloned/init'd
           expanded: true
           children: []
 - key: t4rD77Dy-co_tSRwiscVs
