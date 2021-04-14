@@ -9,10 +9,14 @@
 
 ```mermaid
 graph TD
-    A(Current Repo URL changed) --> B{Repo in localStorage?}
+    A(START - Current Repo URL changed) --> B{Repo in localStorage?}
     B -->|Yes| deserialize[Deserialize from localStorage]
-    deserialize --> render(Render)
-    B -->|No| E[Show Init/Clone Modal]
+    deserialize -->|Deserialize Success| deserializeSuccess[Deserialize Success]
+    deserialize -->|Deserialize Failure| errorToast[Show Error Toast]
+    errorToast --> temporarilyRenderStub
+    deserializeSuccess -->|Render Success| renderSuccess(END - Rendered Successfully)
+    B -->|No| temporarilyRenderStub[Temporarily Render Template Stub]
+    temporarilyRenderStub --> E[Show Init/Clone Modal]
     E[Show URL Clone/Init Modal with Credentials Slider] --> F{Clone or Init?}
     F -->|Perform Clone| G[Get Credentials]
     F -->|Perform Initialize| H[Get Credentials]
