@@ -38,6 +38,21 @@
           title: URL that hasn't been cloned
           expanded: true
           children: []
+    - key: gE-sdi33o0OyxcA-NXES5
+      type: rule
+      title: Must validate the URL before doing anything
+      expanded: true
+      children:
+        - key: 2Bomo244BUW0D4XDmgd9U
+          type: example
+          title: 😥 URL is pttp://myfakeurl.com/fakeproject.git
+          expanded: true
+          children: []
+        - key: cAjP-3YA3O4f8qKJsBNYP
+          type: example
+          title: 😃 URL is https://github.com/sengac/gitfeatures-spec.git
+          expanded: true
+          children: []
 - key: t4rD77Dy-co_tSRwiscVs
   type: story
   title: Show a Clone/Init Modal
