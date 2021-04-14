@@ -18,6 +18,7 @@ graph TD
     B -->|No| temporarilyRenderStub[Temporarily Render Template Stub]
     temporarilyRenderStub --> E[Show Init/Clone Modal]
     E[Show URL Clone/Init Modal with Credentials Slider] --> F{Clone or Init?}
+    E --> updateCredentials[[Update Credentials]]
     F -->|Perform Clone| G[Get Credentials]
     F -->|Perform Initialize| H[Get Credentials]
     H --> git-init[new FS and Git init lightning-fs]
