@@ -531,14 +531,14 @@
               title: New project issues
               expanded: true
               children:
-                - key: repo-url-changed
+                - key: clone-init
                   type: feature
-                  title: Repo URL Changed
+                  title: Clone / Init
                   expanded: true
                   children:
-                    - key: repo-url-changed-discovery-1
+                    - key: clone-init-discovery
                       type: map
-                      title: Repo URL Changed Discovery
+                      title: Clone / Init - Discovery
                       expanded: true
                       children: []
             - key: fXxDUdi7AWF0Ao9k7O8Jz
