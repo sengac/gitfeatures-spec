@@ -3,6 +3,16 @@
   title: Change a repo URL to clone or create
   expanded: true
   children:
+    - key: ipPp26HQN2TxQJWun0Xnq
+      type: rule
+      title: Must render what is in localStorage for the URL
+      expanded: true
+      children:
+        - key: qJRd50TcZSF4UFtZX7ddm
+          type: example
+          title: Valid URL given for something that exists in localStorage
+          expanded: true
+          children: []
     - key: jU66VUKVLpSrXO28z6SRV
       type: rule
       title: Must show a template stub if not in localStorage
