@@ -90,3 +90,19 @@ Feature: Load / Clone / Init
     And the git credentials modal is opened
     And the clone/init modal is opened again once the credentials modal is closed
     
+  # Rule: Must be prompted to make a choice
+  
+  Scenario: Button appears to clone or initialize
+    Given a user wants to clone or intialize a project
+    When the user enters a URL that is not in localStorage
+    Then the clone/init modal appears
+    And a button for "clone" can be selected
+    And a button for "initialize" can be selected
+    
+  # Rule: Must be told what clone and init do
+  
+  Scenario: Explanation of what "initialize" does
+    Given a user wants to clone or initialize a project
+    When the user is at the clone/init modal
+    Then the user should see an explanation of clone beside the clone button
+    And the user should see and explanation of init beside the init button
