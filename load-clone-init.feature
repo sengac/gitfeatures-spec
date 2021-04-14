@@ -6,6 +6,14 @@ Feature: Load / Clone / Init
     Given a user wants to load a project already in localStorage
     When the user enters a URL that matches
     Then the system renders what is in localStorage
+    
+  # Rule: Must show a template stub if not in localStorage
+  
+  Scenario: Valid URL given that hasn't been cloned or initialized
+    Given a user wants to clone, load or create something that isn't in localStorage
+    When the user enters a URL that is not in localStorage
+    Then the template stub is rendered
+    And the clone/init modal is displayed after a short delay
 
   # Rule: Must validate the URL before doing anything
 
