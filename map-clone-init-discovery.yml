@@ -208,8 +208,38 @@
           title: Rollback appears before first commit after change
           expanded: true
           children: []
+    - key: Y3J7rwikSUbnlBsZb8fg6
+      type: rule
+      title: Must empty lightning-fs for URL
+      expanded: true
+      children:
+        - key: SSA9kTTISTv9eZPI-Duk0
+          type: example
+          title: Example.txt stored with URL identifier gone after clone
+          expanded: true
+          children: []
 - key: P8jy2UWwLevbjjC7zc4DS
   type: story
   title: Perform Clone
   expanded: true
-  children: []
+  children:
+    - key: OmY0Sb8GEonNu3H3sB3ec
+      type: rule
+      title: Must elegantly handle clone failure
+      expanded: true
+      children:
+        - key: 2F-1dDUaOzB9auS3ewsPN
+          type: example
+          title: 401 Unauthorized
+          expanded: true
+          children: []
+        - key: KBbpgSKaowFmkUhNLwm0D
+          type: example
+          title: CORS Errors
+          expanded: true
+          children: []
+        - key: Cus-u0BM3IyBcVjxZ1rIy
+          type: example
+          title: Other network errors
+          expanded: true
+          children: []
