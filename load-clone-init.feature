@@ -32,6 +32,13 @@ Feature: Load / Clone / Init
     Then the system displays an error
     And renders the stub template
     And displays the clone/init modal afterwards
+    
+  # Rule: Must render template stub if not in localStorage
+  
+  Scenario: URL that hasn't been cloned
+    Given a user wants to enter a URL that isn't in localStorage
+    When the user changes the URL
+    Then the system renders the stub template
 
   # Rule: Must validate the URL before doing anything
 
@@ -45,3 +52,11 @@ Feature: Load / Clone / Init
     When the user enters the URL as "https://github.com/sengac/gitfeatures-spec.git"
     Then the system clones the URL
     And renders the URL
+    
+  # Rule: View clone/init modal after stub rendered was not found
+  
+  Scenario: Valid URL given that hasn't been cloned or initialized
+    Given a user wants to enter a URL that isn't in localStorage
+    When the user changes the URL
+    Then the system renders the stub template
+    And the system displays the clone/init modal shortly after
