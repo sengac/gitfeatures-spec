@@ -1,5 +1,7 @@
 Feature: Load / Clone / Init
 
+  # --- CHANGE A REPO URL TO CLONE, CREATE OR LOAD ---
+
   # Rule: Must render what is in localStorage for the URL
   
   Scenario: Valid URL given for something that exists in localStorage
@@ -60,3 +62,22 @@ Feature: Load / Clone / Init
     When the user changes the URL
     Then the system renders the stub template
     And the system displays the clone/init modal shortly after
+    
+  # --- SHOW A CLONE / INIT MODAL ---
+    
+  # Rule: Must have a URL to clone or initialize with
+  
+  Scenario: Display input area for URL
+    Given a user wants to create a new project
+    And the clone/init modal is being displayed to the user
+    When the user wishes to change the URL for this project
+    Then the user can edit the URL input field
+    
+  # Rule: Must have ability to choose Git credentials
+  
+  Scenario: Dropdown list with default credentials selected
+    Given a user wants to select custom credentials
+    When the user clicks on the credentials dropdown list
+    Then their custom credentials should be displayed
+    And the custom credentials can be selected
+    
