@@ -1,3 +1,18 @@
+- key: oL2kY7ELjdStZ0MHSt7V3
+  type: story
+  title: Change a repo URL to clone or create
+  expanded: true
+  children:
+    - key: xwUpai6FUGnvJXbuxPfOX
+      type: rule
+      title: Must show a template stub if errored
+      expanded: true
+      children: []
+    - key: jU66VUKVLpSrXO28z6SRV
+      type: rule
+      title: Must show a template stub if not in localStorage
+      expanded: true
+      children: []
 - key: t4rD77Dy-co_tSRwiscVs
   type: story
   title: Show a Clone/Init Modal
