@@ -81,3 +81,12 @@ Feature: Load / Clone / Init
     Then their custom credentials should be displayed
     And the custom credentials can be selected
     
+  # Rule: Must have ability to edit credentials
+  
+  Scenario: Button to edit credentials
+    Given a user wants to edit or add git credentials
+    When the user clicks the edit credentials button
+    Then the clone/init modal is closed
+    And the git credentials modal is opened
+    And the clone/init modal is opened again once the credentials modal is closed
+    
