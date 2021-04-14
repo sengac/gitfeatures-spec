@@ -16,10 +16,11 @@ graph TD
     E[Show URL Clone/Init Modal with Credentials Slider] --> F{Clone or Init?}
     F -->|Perform Clone| G[Get Credentials]
     F -->|Perform Initialize| H[Get Credentials]
-    H --> copy-stub[Copy Template Stubs]
+    H --> git-init[new FS and Git init lightning-fs]
+    git-init --> copy-stub[Copy template stubs to lightning-fs]
     copy-stub --> serialize[Serialize to localStorage]
     G --> I[Clone URL to lightning-fs]
     I --> serialize
-    serialize --> deserialize
+    serialize --> |Reload Action| deserialize
 ```
 
