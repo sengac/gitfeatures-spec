@@ -1,0 +1,4 @@
+clone-init:
+  title: Clone / Init
+  state: Enabled
+  conditions: ""
