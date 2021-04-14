@@ -9,14 +9,17 @@
 
 ```mermaid
 graph TD
-    A(Current Repo URL changed) -->|Load from Browser State| B{Repo in browser?}
-    B -->|Yes| restore-lfs[Restore docs from lightning-fs]
-    restore-lfs --> render(Render)
+    A(Current Repo URL changed) --> B{Repo in localStorage?}
+    B -->|Yes| deserialize[Deserialize from localStorage]
+    deserialize --> render(Render)
     B -->|No| E[Show Init/Clone Modal]
     E[Show URL Clone/Init Modal with Credentials Slider] --> F{Clone or Init?}
     F -->|Perform Clone| G[Get Credentials]
     F -->|Perform Initialize| H[Get Credentials]
+    H --> copy-stub[Copy Template Stubs]
+    copy-stub --> serialize[Serialize to localStorage]
     G --> I[Clone URL to lightning-fs]
-    I --> restore-lfs
+    I --> serialize
+    serialize --> deserialize
 ```
 
