@@ -1,6 +1,6 @@
 - key: oL2kY7ELjdStZ0MHSt7V3
   type: story
-  title: Change a repo URL to clone or create
+  title: Change a repo URL to clone, create or load
   expanded: true
   children:
     - key: ipPp26HQN2TxQJWun0Xnq
@@ -237,7 +237,12 @@
           type: example
           title: CORS Errors
           expanded: true
-          children: []
+          children:
+            - key: duJG9vZnJ7G_ZSfG_XhnZ
+              type: question
+              title: Can we catch CORS errors?
+              expanded: true
+              children: []
         - key: Cus-u0BM3IyBcVjxZ1rIy
           type: example
           title: Other network errors

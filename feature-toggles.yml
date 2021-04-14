@@ -1,4 +1,4 @@
-clone-init:
-  title: Clone / Init
+load-clone-init:
+  title: Load / Clone / Init
   state: Enabled
   conditions: ""

@@ -531,14 +531,14 @@
               title: New project issues
               expanded: true
               children:
-                - key: clone-init
+                - key: load-clone-init
                   type: feature
-                  title: Clone / Init
+                  title: Load / Clone / Init
                   expanded: true
                   children:
-                    - key: clone-init-discovery
+                    - key: load-clone-init-discovery
                       type: map
-                      title: Clone / Init - Discovery
+                      title: Load / Clone / Init - Discovery
                       expanded: true
                       tags:
                         - type: text

@@ -1,4 +1,11 @@
-Feature: Clone / Init
+Feature: Load / Clone / Init
+
+  # Rule: Must render what is in localStorage for the URL
+  
+  Scenario: Valid URL given for something that exists in localStorage
+    Given a user wants to load a project already in localStorage
+    When the user enters a URL that matches
+    Then the system renders what is in localStorage
 
   # Rule: Must validate the URL before doing anything
 
