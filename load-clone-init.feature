@@ -18,12 +18,20 @@ Feature: Load / Clone / Init
   # Rule: Must elegantly handle render/deserialize failures
   
   Scenario: Parsing broken JSON causes error
-    Given a user wants to load an existing project in localStorage
+    Given a user wants to load an existing project from localStorage
     And the project in localStorage has a JSON error
     When the user enters a valid URL to bring up this project
     Then the system displays an error
     And renders the stub template
     And displays the clone/init modal aftewards
+    
+  Scenario: Reading document causes error
+    Given a user wants to load an existing project from localStorage
+    And the project in localStorage contains a parsing error in the specification.yml file
+    When the user enters a valid URL to bring up this project
+    Then the system displays an error
+    And renders the stub template
+    And displays the clone/init modal afterwards
 
   # Rule: Must validate the URL before doing anything
 

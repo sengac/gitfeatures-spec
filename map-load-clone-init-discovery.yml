@@ -35,7 +35,7 @@
           children: []
         - key: 5Ewz7UyFP81OWhTSjF_KA
           type: example
-          title: Render doesn't work - doc structure error
+          title: Reading document causes error
           expanded: true
           children: []
     - key: aamgFalsZ_-97aTB0PN4B
