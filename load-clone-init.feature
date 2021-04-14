@@ -15,6 +15,16 @@ Feature: Load / Clone / Init
     Then the template stub is rendered
     And the clone/init modal is displayed after a short delay
 
+  # Rule: Must elegantly handle render/deserialize failures
+  
+  Scenario: Parsing broken JSON causes error
+    Given a user wants to load an existing project in localStorage
+    And the project in localStorage has a JSON error
+    When the user enters a valid URL to bring up this project
+    Then the system displays an error
+    And renders the stub template
+    And displays the clone/init modal aftewards
+
   # Rule: Must validate the URL before doing anything
 
   Scenario: URL is pttp://myfakeurl.com/fakeproject.git

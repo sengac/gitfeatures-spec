@@ -30,7 +30,7 @@
       children:
         - key: 3N53l_h0dWYwTtmHjFb-4
           type: example
-          title: Deserialize doesn't work - JSON error
+          title: Parsing broken JSON causes error
           expanded: true
           children: []
         - key: 5Ewz7UyFP81OWhTSjF_KA
