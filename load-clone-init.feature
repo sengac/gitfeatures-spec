@@ -64,6 +64,16 @@ Feature: Load / Clone / Init
     And the system displays the clone/init modal shortly after
     
   # --- SHOW A CLONE / INIT MODAL ---
+  
+  # Rule: Must be able to change URL and retry load
+  
+  Scenario: URL has small typo in it that needs fixing to load
+    Given a user wanted to load a URL that is in localStorage
+    But the user had a typo in the URL
+    When the user is at the clone/init modal
+    And the user fixes the URL
+    And the user clicks the reload button
+    Then the system renders the fixed URL from localStorage
     
   # Rule: Must have a URL to clone or initialize with
   
