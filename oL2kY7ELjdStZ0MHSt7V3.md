@@ -23,7 +23,8 @@ graph TD
     deserializeSuccess -->|Render Failure| errorToast
     B -->|No| temporarilyRenderStub[Temporarily Render Template Stub]
     temporarilyRenderStub --> E[Show Init/Clone Modal]
-    E[Show URL Clone/Init Modal with Credentials Slider] -->|Has credentials selected| F{Clone or Init?}
+    E[Show URL Clone/Init Modal with Credentials Slider] -->|Has credentials selected| F{Clone, Init or Change URL?}
+    E -->|User changes URL| deserialize
     E -->|Needs to add/update credentials| updateCredentials[[Update Credentials]]
     F -->|Perform Clone| G[Get Credentials]
     F -->|Perform Initialize| H[Get Credentials]

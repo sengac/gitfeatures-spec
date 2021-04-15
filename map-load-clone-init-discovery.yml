@@ -83,6 +83,16 @@
   title: Show a Clone/Init Modal
   expanded: true
   children:
+    - key: 2d7bvNqQ9ArmB99RGbh7e
+      type: rule
+      title: Must be able to change URL and retry load
+      expanded: true
+      children:
+        - key: GERa3r-2ls2yTo8UmaGNq
+          type: example
+          title: URL has typo https://github.com/sengak/gitfeatures-spec.git
+          expanded: true
+          children: []
     - key: qT__nXNkcjnmR1CzlieZx
       type: rule
       title: Must have a URL to clone or initialize with
