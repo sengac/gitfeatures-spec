@@ -136,4 +136,7 @@ Feature: Load / Clone / Init
     When the user is shown the clone/init modal
     Then the user cannot close the modal with a close button
   
-  
+  Scenario: Esc key is disabled
+    Given a user enters a URL that is not in localStorage
+    When the user is shown the clone/init modal
+    Then the user cannot use the escape key to close the modal
