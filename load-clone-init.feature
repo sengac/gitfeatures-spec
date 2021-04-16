@@ -140,3 +140,26 @@ Feature: Load / Clone / Init
     Given a user enters a URL that is not in localStorage
     When the user is shown the clone/init modal
     Then the user cannot use the escape key to close the modal
+    
+  # --- PERFORM INITIALIZE ---
+  
+  # Rule: Must not show rollback if a new project
+  
+  Scenario: Rollback can't appear before first commit after change
+    Given a user has just initialized a project and done nothing else
+    When a user saves a change to a document
+    And the user clicks the "uncommitted changes" button
+    Then the "rollback" button is disabled
+  
+  # Rule: Must empty lightning-fs for actions on a URL
+  
+  Scenario: Must empty lightning-fs for newly a initialized URL
+    Given there is a file called "example.txt" in the browser for this URL
+    When a initializes a project for the URL
+    Then the file no longer exists
+  
+  # --- PERFORM CLONE ---
+  
+  # Rule: Must elegantly clone failures
+  
+  
