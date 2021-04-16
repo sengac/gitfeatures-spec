@@ -129,3 +129,11 @@ Feature: Load / Clone / Init
     When the user clones the project using the "master" branch
     Then the document cannot be rendered
     
+  # Rule: Must not be able to cancel modal
+  
+  Scenario: No cross at the top of the screen
+    Given a user enters a URL that is not in localStorage
+    When the user is shown the clone/init modal
+    Then the user cannot close the modal with a close button
+  
+  
