@@ -153,16 +153,6 @@
           title: Explanation of what clone does
           expanded: true
           children: []
-    - key: 0BBJp8pkZewUbziviFiFn
-      type: rule
-      title: Must initialize a project if not cloned
-      expanded: true
-      children:
-        - key: dM2qkxcukJGWXiMQcJMcF
-          type: example
-          title: Choice of clone or new
-          expanded: true
-          children: []
     - key: Vr-HhYFVEN71NEzqv1yl8
       type: rule
       title: Must know the branch to use

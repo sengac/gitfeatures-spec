@@ -116,3 +116,16 @@ Feature: Load / Clone / Init
     When the user is at the clone/init modal
     Then the user should see an explanation of clone beside the clone button
     And the user should see and explanation of init beside the init button
+    
+  # Rule: Must know the branch to use
+  
+  Scenario: Clone a repository with master branch
+    Given a user wants to clone a project that has a master branch
+    When the user clones the project using the "master" branch
+    Then the document can be rendered
+    
+  Scenario: Clone a repository with a main branch using master
+    Given a user wants to clone a project that has a main branch
+    When the user clones the project using the "master" branch
+    Then the document cannot be rendered
+    
