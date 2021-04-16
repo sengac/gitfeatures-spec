@@ -162,4 +162,14 @@ Feature: Load / Clone / Init
   
   # Rule: Must elegantly clone failures
   
+  Scenario: 401 unauthorized
+    Given a user has a private repository
+    And the user has stored incorrect credentials
+    When the user attempts to clone the repository
+    Then the system shows a clone error
+    And the system shows the clone/init modal again
+  
+  Scenario: CORS errors
+  
+  Scenario: Other network errors
   
