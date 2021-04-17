@@ -169,7 +169,9 @@ Feature: Load / Clone / Init
     Then the system shows a clone error
     And the system shows the clone/init modal again
   
-  Scenario: CORS errors
-  
   Scenario: Other network errors
-  
+    Given a user wishes to clone a repository
+    And the user's internet connection is not working
+    When the user attempts to clone the repository
+    Then the system shows a clone error
+    And the system shows the clone/init modal again  

@@ -223,16 +223,6 @@
           title: 401 Unauthorized
           expanded: true
           children: []
-        - key: KBbpgSKaowFmkUhNLwm0D
-          type: example
-          title: CORS Errors
-          expanded: true
-          children:
-            - key: duJG9vZnJ7G_ZSfG_XhnZ
-              type: question
-              title: Can we catch CORS errors?
-              expanded: true
-              children: []
         - key: Cus-u0BM3IyBcVjxZ1rIy
           type: example
           title: Other network errors
