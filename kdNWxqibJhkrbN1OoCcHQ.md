@@ -1,0 +1,1 @@
+This could be done by importing a zip file - so  it's an easier way to rename a project URL.
