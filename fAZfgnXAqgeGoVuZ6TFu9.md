@@ -5,3 +5,5 @@ https://www.youtube.com/watch?v=Kg_47J6sy3A
 For this reason, small "products" are the best thing an individual or team can achieve.
 
 Individuals can achieve amazing things by themselves. Let's go through some GitHub projects to see this.
+
+Small teams can be disruptive threats to established players. However, small teams are not limited to startups - large organizations also address this with R&D programs such as [Skunk Works](https://en.wikipedia.org/wiki/Skunk_Works).
