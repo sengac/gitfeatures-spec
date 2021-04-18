@@ -25,9 +25,9 @@ graph TD
     temporarilyRenderStub --> E[Show Init/Clone Modal]
     E[Show URL Clone/Init Modal with Credentials Slider] -->|Has credentials selected| F{Clone, Init or Change URL?}
     E -->|User changes URL| deserialize
-    E -->|User clicks upload file| processRepositoryZip
-    processRepositoryZip -->|Success| deserialize
-    processRepositoryZip -->|Failure| errorToast
+    E -->|User clicks upload file| processRepositoryZip[Process Repository Zip]
+    processRepositoryZip -->|Process Success| deserialize
+    processRepositoryZip -->|Process Failure| errorToast
     E -->|Needs to add/update credentials| updateCredentials[[Update Credentials]]
     F -->|Perform Clone| G[Get Credentials]
     F -->|Perform Initialize| H[Get Credentials]
