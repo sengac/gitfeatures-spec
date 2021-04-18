@@ -80,7 +80,7 @@ Feature: Load / Clone / Init
   Scenario: User provides valid Git repository zip
     Given a user is at the clone/modal dialog
     And the user has a valid Git repository zip file
-    When the user clicks the "upload" button
+    When the user clicks the "import" button
     Then the user is prompted to upload a zip file
     And the system processes the zip file
     And the system renders the repository
@@ -88,7 +88,7 @@ Feature: Load / Clone / Init
   Scenario: User provides invalid Git repository zip
     Given a user is at the clone/modal dialog
     And the user has an ivalid Git repository zip file
-    When the user clicks the "upload" button
+    When the user clicks the "import" button
     Then the user is prompted to upload a zip file
     And the system processes the zip file
     And the system shows a toast error message
