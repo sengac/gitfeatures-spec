@@ -1,8 +1,3 @@
-- key: kdNWxqibJhkrbN1OoCcHQ
-  type: question
-  title: Can we import a git repo here?
-  expanded: true
-  children: []
 - key: oL2kY7ELjdStZ0MHSt7V3
   type: story
   title: Change a repo URL to clone, create or load
@@ -96,6 +91,21 @@
         - key: GERa3r-2ls2yTo8UmaGNq
           type: example
           title: URL has typo https://github.com/sengak/gitfeatures-spec.git
+          expanded: true
+          children: []
+    - key: xsyyz7sUSe4CxvSwIM0yq
+      type: rule
+      title: Must have button to process zip repository
+      expanded: true
+      children:
+        - key: JUGgzAqdRCpqKiNRTLY7b
+          type: example
+          title: User provides valid git repository zip
+          expanded: true
+          children: []
+        - key: egzBN-6D6dmZ6Ry3rT-pG
+          type: example
+          title: User provides invalid git repository zip
           expanded: true
           children: []
     - key: qT__nXNkcjnmR1CzlieZx

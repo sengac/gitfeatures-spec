@@ -75,6 +75,25 @@ Feature: Load / Clone / Init
     And the user clicks the reload button
     Then the system renders the fixed URL from localStorage
     
+  # Rule: Must have button to process zip repository
+  
+  Scenario: User provides valid Git repository zip
+    Given a user is at the clone/modal dialog
+    And the user has a valid Git repository zip file
+    When the user clicks the "upload" button
+    Then the user is prompted to upload a zip file
+    And the system processes the zip file
+    And the system renders the repository
+  
+  Scenario: User provides invalid Git repository zip
+    Given a user is at the clone/modal dialog
+    And the user has an ivalid Git repository zip file
+    When the user clicks the "upload" button
+    Then the user is prompted to upload a zip file
+    And the system processes the zip file
+    And the system shows a toast error message
+    And the system displays the clone/init modal again
+        
   # Rule: Must have a URL to clone or initialize with
   
   Scenario: Display input area for URL
