@@ -9,6 +9,11 @@
 - In order to use GitFeatures for a new project
 - As a user
 - I want to be able to create a new project
+
+#### Import Existing Project
+- In order to use GitFeatures for a an existing project
+- As a user
+- I want to be able to import a project
 ---
 ### Flow Diagram
 
