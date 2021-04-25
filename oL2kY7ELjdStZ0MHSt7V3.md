@@ -14,6 +14,11 @@
 - In order to use GitFeatures for a an existing project
 - As a user
 - I want to be able to import a project
+
+#### Restore Existing Project
+- In order to continue working on an existing project
+- As a user
+- I want to be able to work on an existing project without cloning it
 ---
 ### Flow Diagram
 
