@@ -49,6 +49,7 @@ MwAAAHEHAAAAAA==
 - Search capability
 - Diff on uncommitted changes
 - Git Pull (requires Diff for merging)
+- Possibility of adding Event Storming & Feature Mapping?
 - Much more...
 
 ```sketch[1024x300]
